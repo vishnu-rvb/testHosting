@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html>
 <head>
     <title>Button Click Message</title>
@@ -7,4 +7,173 @@
 <body>
     <button onclick="displayMessage()">Click Me</button>
 </body>
+</html>-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GSS Coil Location Tracker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 10px;
+        }
+        form {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+        input[type="text"], input[type="date"], input[type="file"],select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        button {
+            padding: 10px 20px;
+            margin-right: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button.clear {background-color: #f44336;}
+        /*#input-coilQr, #input-locationQr {display: none;}
+        #reader {display: none;}*/
+        .scan-icon {
+            display: inline-block;
+            cursor: pointer;
+            width: 50px;  /* Adjust the size as needed */
+            height: 50px; /* Adjust the size as needed */
+            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUf1PVtG7cM-HUe5XfC6hUF_FBGwjV3SqcbQ&s'); /* Replace with your scan icon image URL */
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            border: 2px solid #ccc; /* Optional: add a border */
+            border-radius: 50%; /* Optional: make it circular */
+        }
+    </style>
+</head>
+<body>
+    <h1>GSS Coil Location Tracker</h1>
+    <div id="reader" width="600px"></div>
+    <form id="form">
+        <label for="input-date">Date:</label>
+        <input type="date" id="input-date" name="date" required>
+        
+        <label for="input-coil">Coil:</label>
+        <input type="text" id="input-coil" name="coil" required>
+        <input type="file" id="input-coilQr" name="coilQr" 
+        accept="image/*" capture="environment" onchange="scanQRCode_jsQR('input-coilQr', 'input-coil')">
+        <label for="reader" class="scan-icon" onclick="scanQRCode('input-coilQr', 'input-coil')"></label>
+
+        <label for="input-location">Location:</label>
+        <input type="text" id="input-location" name="location" required>
+        <input type="file" id="input-locationQr" name="locationQr" 
+        accept="image/*" capture="environment" onchange="scanQRCode_jsQR('input-locationQr', 'input-location')">
+        <label for="reader" class="scan-icon" onclick="scanQRCode('input-locationQr', 'input-location')"></label>
+
+        <label for="input-user">User:</label>
+        <select id="input-user" name="users">
+            <option value="operator A">operator A</option>
+            <option value="operator B">operator B</option>
+            <option value="operator C">operator C</option>
+        </select>
+        <!--<input type="text" id="input-user" name="user" required>-->
+        
+        <button type="submit">Submit</button>
+        <button type="button" class="clear" onclick="clearForm()">Clear</button>
+    </form>
+    <script src="https://cdn.jsdelivr.net/npm/jsqr/dist/jsQR.js"></script>
+    <script src="https://unpkg.com/html5-qrcode" type="text/javascript"></script>
+    <script>
+        const URL = 'https://prod-30.centralindia.logic.azure.com:443/workflows/60847960349f4deebdbb8e59ebe6c629/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=-WevHSR0PbtfOYaAWwlEVP3MXqgh3mzWrpmNZgNxioA'; // Replace with your API endpoint
+        function submitForm(event){
+            event.preventDefault();
+            const formData = new FormData(event.target);
+            const data = {
+                date: formData.get('date'),
+                coil: formData.get('coil'),
+                location: formData.get('location'),
+                user: formData.get('users')
+            };
+            console.log(data);
+            fetch(URL, {method: 'POST',headers: {'Content-Type':'application/json'},body: JSON.stringify(data)})
+            .then(response=>{console.log('Response:', response);alert('Coil location updated');})
+            .catch(error => {console.error('Error:', error);alert('Error submitting data');});
+        }
+        function clearForm() {document.getElementById('form').reset();}
+
+        function processImage(imageSrc, callback) {
+            const img = new Image();
+            img.src = imageSrc;
+            img.onload = function() {
+                // Create a canvas to draw the image
+                const canvas = document.createElement('canvas');
+                canvas.width = img.width;canvas.height = img.height;
+                const ctx = canvas.getContext('2d');
+                ctx.drawImage(img, 0, 0, img.width, img.height);
+                const imageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+                const code = jsQR(imageData.data, canvas.width, canvas.height);
+                if (code) {callback(code.data);} 
+                else {callback(null);}
+                
+            }
+        }
+        function scanQRCode_jsQR(fileInputId, textInputId) {
+            const fileInput = document.getElementById(fileInputId);
+            const textInput = document.getElementById(textInputId);
+            const file = fileInput.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload=function(e){
+                    processImage(e.target.result, function(decodedText){
+                        if (decodedText){textInput.value = decodedText;}
+                        else{alert('No QR code found.');}
+                    });
+                };
+                reader.readAsDataURL(file);
+            }
+            else{alert('No file selected.');}
+        }
+        /*function scanQRCode_API(fileInputId, textInputId){
+            const fileInput = document.getElementById(fileInputId);
+            const textInput = document.getElementById(textInputId);
+            const qrcodeURL = 'http://api.qrserver.com/v1/read-qr-code/';
+            const qrcodeForm = new FormData();
+            qrcodeForm.append('file', file);
+            fetch(qrcodeURL,{method:'POST',body:qrcodeForm})
+            .then(response=>response.json())   
+            .then(data=>{
+                console.log('response',data);
+                textInput.value = String(data[0]['symbol'][0]['data']);})
+		    .then(error=>{console.log('error:',error);});
+        }*/
+
+        function scanQRCode(fileInputId, textInputId){
+            const fileInput = document.getElementById(fileInputId);
+            const textInput = document.getElementById(textInputId);
+            html5QrcodeScanner.render(
+                (decodedText, decodedResult)=>{textInput.value=decodedText;html5QrcodeScanner.clear();},
+                error=>console.warn(`Code scan error = ${error}`)
+                ); 
+        }
+        document.getElementById('form').addEventListener('submit',submitForm);
+        let html5QrcodeScanner = new Html5QrcodeScanner("reader",{ fps: 10, qrbox: {width: 250, height: 250} },/* verbose= */ true);
+    </script>
+</body>
 </html>
+
