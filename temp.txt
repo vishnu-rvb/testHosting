@@ -1,0 +1,687 @@
+<--start of body-->ID No,Hold Date,Shift,Line,CustomerName,Reference A 1,Description,Defect,Qty,Holded by,Location,Disposition,Status,Completed date,Reworked by,Reviewed by,Shift Engineer,Root Cause
+1,01-04-2024,A,hem+,Swift,-,hem+100x2300,line mark,95,Mani,hem+,Rework,Completed,01-04-2024,shankar,Mukundan,-,-
+2,01-04-2024,B,hem+,Swift,-,hem+110x2500,line mark,200,Mani,hem+,Rework,Completed,01-04-2024,simon,Rohit,-,-
+3,01-04-2024,B,hem+,Swift,-,hem+110x2700,line mark,450,Anand,AW N,Rework,Completed,02-04-2024,sharanraj,Rohit,-,-
+4,02-04-2024,C,hem+,Amazon,-,sp 600x1100,white rust,50,Anand,sp,Scrap,Completed,01-04-2024,-,-,-,-
+5,02-04-2024,A,hem+,Swift,-,hem+110 x2700,line mark,100,Mukundan,AW N,Rework,Completed,02-04-2024,sankar,Mukundan,-,-
+6,02-04-2024,B,GXL UR,DHL,-,Gx90 x1.5x1800,wrong thk,180,Mukundan,GXL UR,Deviation,Completed,02-04-2024,-,Rohit,-,-
+7,03-04-2024,A,RF Pnl,Laxfo,-,Gsb 150x1200,hole offset,100,Mukundan,RF Pnl,Scrap,Completed,11-06-2024,Naresh,Mukundan,-,-
+8,03-04-2024,A,RF Pnl,laxfo,-,Gsb 150x0.7x1200,hole offset,490,Mukundan,HO aisle,Deviation,Completed,03-05-2024,-,Sadish,-,-
+9,03-04-2024,B,GXL UR,MSE,-,GXL 90x2x6300,mill scale,10,Rajaraman,GXL UR,Rework,Completed,04-04-2024,vijaybabu,Mukundan,-,-
+10,05-04-2024,C,RF Pnl,mactech,-,gsb 150x1000x0.7,Hole offset,100,Rajaraman,RF Pnl,Scrap,Completed,11-06-2024,Naresh,Mukundan,-,-
+11,08-05-2024,B,sp,wani,-,sp 600x1000,white rust,37,Rohit,sp,Scrap,Completed,08-04-2024,-,-,-,-
+12,08-04-2024,B,hem+,Swift,-,hem+85x1.5x2700,line mark,312,Mani,AW N,Rework,Completed,09-05-2024,simon,Mukundan,-,-
+13,08-04-2024,B,sp,-,-,sp 600x1200,white rust,122,Rajaraman,sp,Rework,Completed,09-04-2024,Nareshkumar,Rohit,-,-
+14,11-04-2024,B,hem+,Swift,-,hem+100x1.5x2700,edge damage,98,Mukundan,AW N,Rework,Completed,11-05-2024,sankar,Mukundan,-,-
+15,12-04-2024,C,AW O,Swift,-,hem+ 100x2800,depth variation,100,Anand,AW N,Scrap,Completed,12-04-2024,-,-,-,-
+16,12-04-2024,C,AW O,Swift,-,hem+100x2800x1.5,beam twist,90,Rohit,AW N,Rework,Completed,13-04-2024,simon,Rohit,-,-
+17,15-04-2024,A,GXL UR,Maz,-,Gxl90x10800,line mark,32,Sathyamurthy,GXL UR,Rework,Completed,16-05-2024,vijaybabu,Rohit,-,-
+18,15-04-2024,B,RW,Swift,-,hem+110x2700,fusion fail,75,Rajaraman,RW,Rework,Completed,16-05-2024,Sankar,Rohit,-,-
+19,20-04-2024,A,GXL UR,Instakart,-,gxl120 x950,Hole offset & slot offset,57,Rajaraman,GXL UR,Scrap,Completed,23-04-2024,-,-,-,-
+20,16-04-2024,C,Hem,Swift,-,hem+100x2300,Hem open,213,Rajaraman,Hem,Divertion,Completed,19-05-2024,Naresh Kumar,Mukundan,-,-
+21,18-04-2024,C,AW N,Swift,-,hem+100x2750,load not taken,155,Anand,AW N,Deviation,Completed,20-05-2024,-,-,-,-
+22,18-04-2024,C,AW O,Swift,-,hem+100x2750,load not taken,345,Anand,AW O,Deviation,Completed,20-04-2024,-,-,-,-
+23,20-04-2024,A,hem+,insta,-,hem+115x3400,bow,45,Silamarasan,hem+,Scrap,Completed,22-04-2024,-,-,-,-
+24,20-04-2024,B,hem+,Swift,-,hem+ 100x1.2x2750,load not taken,190,Rajaraman,AW N,Deviation,Completed,22-04-2024,-,-,-,-
+25,21-04-2024,A,WP,globe tech,-,walkway 200x3296,length variation,20,Mukundan,WP,Scrap,Completed,21-04-2024,-,-,-,-
+26,22-04-2024,B,GXL UR,vardhaan,-,Gxl 90x3400,produced in old upright for splice order,182,Sathyamurthy,Old UR,Rework,Completed,22-04-2024,Krishna Kumar,Mukundan,-,-
+27,23-04-2024,B,hem+,Swift,-,hem+85x2750,line mark mixup,87,Sathyamurthy,hem+,Rework,Completed,24-04-2024,sankar,Rohit,-,-
+28,23-04-2024,B,GXL UR,Instakart,-,Gxl120x2x11950,slot offset,25,Sathyamurthy,GXL UR,Scrap,Completed,24-04-2024,-,-,-,-
+29,24-04-2024,A,hem+,Swift,-,hem+110x2750,line mark,36,Rajaraman,hem+,Rework,Completed,24-05-2024,sharanraj,Mukundan,-,-
+30,25-04-2024,A,hem+,Swift,-,hem+100x2800,line mark,90,Mukundan,HO aisle,Scrap,Completed,02-05-2024,-,-,-,-
+31,26-04-2024,C,AW O,Swift,-,hem+110x2300,load not taken,529,Anand,AW O,Deviation,Completed,27-04-2024,-,-,-,-
+32,27-04-2024,A,hem+,Iron mountain,-,hem+110x2750x1.5,line mark,90,Rajaraman,hem+,Rework,Completed,27-05-2024,simon,Rohit,-,-
+33,27-04-2024,A,sp,-,-,sp 900x450,oil leak,80,Rohit,HO aisle,Rework,Completed,28-04-2024,vijaybabu,Mukundan,-,-
+34,28-04-2024,A,-,Het eng,-,Gxl 110x11800x1.8,24mm slot e\\e variation,40,Rohit,GXL UR,Deviation,Completed,28-04-2024,-,Rohit,-,-
+35,28-04-2024,A,GXL UR,Magic,-,Gxl 110x9800x1.8,24mm slot e\\e variation,48,Rohit,GXL UR,Rework,Completed,28-04-2024,-,Rohit,-,-
+36,02-05-2024,A,sp,Instakart,-,sp450x900,cutting edge bur,120,Sathyamurthy,sp,Rework,Completed,03-05-2024,Nareshkumar,Mukundan,-,-
+37,02-05-2024,C,WP,Instakart,-,wp 2996x200,white rust,8,Sathyamurthy,WP,Scrap,Completed,03-05-2024,-,Mukundan,-,-
+38,03-05-2024,A,GXL UR,-,-,Gxl 110x11500x3.15,camber,17,Mukundan,GXL UR,Scrap,Completed,03-05-2024,-,-,-,-
+39,04-05-2024,B,Step,Tata capital,-,gsb20x120x2850,low YS,200,Rajaraman,Step,Deviation,Completed,06-05-2024,-,-,-,-
+40,06-05-2024,C,Hem,Swift,-,hem+100x2300,line mark,12,Anand,AW O,Rework,Completed,07-05-2024,-,-,-,-
+41,07-05-2024,B,Brac,Maruti,-,gx w90x1512x1.5,length variation,200,Rajaraman,Brac,Salvage,Completed,08-05-2024,-,-,-,-
+42,07-05-2024,B,Hem,Swift,-,hem+100x2300,line mark,90,Anand,AW O,Rework,Completed,08-05-2024,sharanraj,Rohit,-,-
+43,10-05-2024,A,MLF,rentasset,-,hem+125x2900,length variation,90,Sathyamurthy,12m,Rework,Completed,12-05-2024,Dinesh,Mukundan,-,-
+44,10-05-2024,A,GXL UR,-,-,GXL 110x9400,slot offset,52,Silamarasan,GXL UR,Scrap,Completed,11-05-2024,-,Mukundan,-,-
+45,10-05-2024,A,RF Pnl,-,-,rf 300x900,cutting edge bur,200,Silamarasan,RF Pnl,Rework,Completed,13-05-2024,-,Rohit,-,-
+46,10-05-2024,C,Hem,-,-,85x1.5x2300,line mark mixup up,105,Mani,AW O,Rework,Completed,14-05-2024,sharanraj,Rohit,-,-
+47,10-05-2024,C,Box,Swift,-,box125x1.5x2700,crimping open,31,Rohit,Box,Scrap,Completed,11-05-2024,-,-,-,-
+48,11-05-2024,B,Hem,crown,-,hem+100x1.5x2300,line mark,154,Mani,MLF,Rework,Completed,12-05-2024,Dinesh,Mukundan,-,-
+49,17-05-2024,A,hem+,Swift,-,hem+100x1.5x2300,line mark,90,Rajaraman,AW O,Rework,Completed,22-05-2024,simon,Mukundan,-,-
+50,17-05-2024,A,WP,dennis,-,wp,slot offset,49,Rajaraman,WP,Scrap,Completed,17-05-2024,-,-,-,-
+51,19-05-2024,B,WP,Baazar retail,-,Wp 150x2.3x2396,slot offset,20,Mani,WP,Scrap,Completed,-,-,-,-,-
+52,20-05-2024,A,G50 UR,-,-,G50x4195,length variation ,16,Mani,G50 UR,Scrap,Completed,20-05-2024,-,-,-,-
+53,20-05-2024,B,sp,-,-,sp 450x900,cutting edge bur,240,Rohit,sp,Rework,Completed,20-05-2024,-,-,-,-
+54,22-05-2024,C,Hem,Swift,Swift,hem+ 100x2300,Hem open,70,Rajaraman,Hem,Deviation,Completed,23-05-2024,-,Sadish,-,-
+55,22-05-2024,B,Hem,Swift,-,hem+100x2300,edge damage mixup,100,Silamarasan,Hem,Rework,Completed,22-05-2024,ram,Mukundan,-,-
+56,26-02-2024,C,Stiffner,-,-,stability beam x1.5x595,length +5mm,1080,Rajaraman,Stiffner,Scrap,Completed,15-06-2024,Krishna,Mukundan,-,-
+57,23-03-2024,A,Brac, Swift,-,GX Brc 1242,white rust,1216,Sathyamurthy,Brac,Scrap,Completed,15-06-2024,Krishna,Mukundan,-,-
+58,24-05-2024,C,sp,-,-,spx100x400x1,rust,99,Rajaraman,Step,Rework,Completed,-,-,-,-,-
+59,25-05-2024,C,Stiffner,Dennis,-, gx stiffener L450,angle open (mixup ),810,Rajaraman,Stiffner,Scrap,Completed,15-06-2024,Krishna,Mukundan,-,-
+60,28-05-2024,A,WP,Instakart,-,W/WEMB 150x3396,Black mark,140,Silamarasan,WP,Scrap,Completed,01-06-2024,ram,Mukundan,-,-
+61,17-05-2024,A,Brac,-,-,GX brac 1322x1.5,thickness variation,280,Rajaraman,Brac,Scrap,Completed,11-06-2024,Naresh,Mukundan,-,-
+62,28-05-2024,A,Hem,logical,-,hem+125x2690,length variation,29,Rajaraman,Hem,Scrap,Completed,-,-,-,-,-
+63,29-05-2024,B,GXL UR,Swastik associal,-,Gxl 110x9600,inner line mark,22,Silamarasan,GXL UR,Rework,Completed,26-06-2024,vijaybabu,Mukundan,-,-
+64,29-05-2024,B,G50 UR,-,-,G50 L-3395,wrong thickness produced,157,Rajaraman,G50 UR,Salvage,Completed,26-06-2024,krishna,Mukundan,-,-
+65,29-05-2024,B,Press shop,-,-,g50 base plate,step cut issue,150,Rajaraman,Press shop,Scrap,Completed,05-06-2024,-,-,-,-
+66,29-05-2024,C,Hem,ZOMATO,-,hem+115x2740,Hem open,99,Sathyamurthy,Hem,Scrap,Completed,01-06-2024,ram,Mukundan,-,-
+67,30-05-2024,A,Angle,Instakart,-,angle 35x2438,slot bur,472,Silamarasan,Angle,Rework,Completed,31-05-2024,ram,Mukundan,-,-
+68,29-05-2024,A,Brac,MSE,-,GX bracingx1264,Black mark,250,Anand,FG,Scrap,Completed,15-06-2024,Krishna,Mukundan,-,-
+69,01-06-2024,A,Hem,-,-,Hemx100x1.5xL1510 L1515 L3300 L3400,step cut,40,Rajaraman,Hem,Scrap,Completed,-,-,-,-,-
+70,01-06-2024,C,GXL UR,Zomato,-,Gxb 90x10100,inner width variation,12,Sathyamurthy,GXL UR,Rework,Completed,02-06-2024,vijaybabu,Mukundan,-,-
+71,03-06-2024,B,GXL UR,-,-,GXL120x10850,length variation,9,Mukundan,GXL UR,Scrap,Completed,03-06-2024,Vijayababu,Mukundan,-,-
+72,04-06-2024,C,hem+,Instakart,-,hem+2960x1.2,hem open,49,Silamarasan,hem+,Scrap,Completed,15-06-2024,-,Rohit,-,-
+73,04-06-2024,B,hem+,Instakart,-,hem+125x3530x1.2,Hem open,83,Silamarasan,HO aisle,Scrap,Completed,14-06-2024,Yograj,Mukundan,Ram,-
+74,07-06-2024,B,hem+,-,-,hem+100x2700x1.5,dent mark,78,Mani,AW O,Rework,Completed,15-06-2024,Sriram,Mukundan,-,-
+75,07-06-2024,B,AW N,Swift,-,hem+110x2700,level variation,100,Silamarasan,HO aisle,Salvage,Completed,-,-,-,-,-
+76,05-06-2024,B,MLF,std,-,4lip connector,square out,100,Mukundan,MLF,Scrap,Completed,07-06-2024,-,Mukundan,-,-
+77,11-06-2024,A,GXL UR,Sun Pharma,-,GXL110x2x10200,Mill scale,12,Sathyamurthy,HO aisle,Rework,Completed,12-06-2024,Vijaybabu,Mukundan,Vijaybabu,Tata coil
+78,11-06-2024,A,GXL UR,Instakart,-,GXL110x2x7600,Mill scale,48,Sathyamurthy,HO aisle,Rework,Completed,16-06-2024,ram,-,Vijay Babu,Tata coil
+79,11-06-2024,C,GXL UR,Balaji wafer,-,GXL110x2x8300,Slot Chip off,39,Rajaraman,HO aisle,Rework,Completed,12-06-2024,Ram,Rohit,Krishnakumar,Punch chip off
+80,12-06-2024,B,Brac,paxar,-,GXBARx838,Wrong production,1475,Silamarasan,Brac,Deviation,Completed,13-06-2024,Prabhu,Prabha,vijay babu,operator santosh plan error
+81,12-06-2024,B,Brac,paxar,-,GXBRx938,Wrong production,445,Silamarasan,Brac,Deviation,Completed,13-06-2024,Prabhu,Prabha,vijay babu,operator santosh plan error
+82,12-06-2024,B,Brac,paxar,-,GXBRx1031,Wrong production,342,Silamarasan,Brac,Deviation,Completed,13-06-2024,Prabhu,Prabha,vijaybabu,operator santosh plan error
+83,13-06-2024,B,12m,Zoamato,-,Gxl 90 L7000 SB,Damage,1,Arun,12m,Salvage,Completed,18-06-2024,-,-,-,-
+84,13-06-2024,B,12m,Zoamato,-,Stability Bm L1291,Oil Mark,114,Viki,12m,Rework,Completed,14-06-2024,Dawooth,Viki,Dawooth,Oil flotation high in coolant tank
+85,13-06-2024,B,12m,Dennis,-,Hem + 110 L2700 OR,Oil Mark,38,Viki,12m,Rework,Completed,13-06-2024,Dawooth,Viki,Dawooth,Oil floatation in coolant tank
+87,13-06-2024,A,Stiffner,Zenith,-,Shelf Stiffner 995x0.7 GA,Twist,188,Sathyamurthy,HO aisle,Scrap,Completed,15-06-2024,Krishna,Mukundan,Vijaybabu,Height correction
+88,13-06-2024,C,9m,Instakart,-,I sec Beam,Rust,1,Viki,9m,Rework,Completed,16-06-2024,-,-,-,-
+90,14-06-2024,A,FPL,Instakart,-,sp 900x450,Rust,10,Arun,FPL,Rework,Completed,15-06-2024,-,Arun,-,-
+91,14-06-2024,C,JDM CF,STD,-,GX 4 LC LH RH,lance height variation,182,Silamarasan,JDM CF,Rework,Completed,14-06-2024,Bhuvanesh,-,Ram,-
+92,15-06-2024,A,Box,General,-,GB 135x3300,Crimp open,68,Sathyamurthy,Box,Scrap,Completed,15-06-2024,yogaraj,Mukundan,Ram,Operator karthik error
+93,14-06-2024,B,12m,MSE,-,Ghem+ 110x2700,Sticker Mark,1,Viki,12m,Rework,Completed,16-06-2024,-,Arun,-,-
+94,14-06-2024,B,12m,Zomato,-,Stability Beam GX 1291,Oil Mark,222,Viki,12m,Rework,Completed,20-06-2024,balaji,Arun,-,-
+95,15-06-2024,A,12m,General,-,GXL 90x7400,Length Variation,1,Arun,-,Salvage,Completed,19-06-2024,-,Mukundan,-,-
+96,15-06-2024,A,12m,Instakart,-,PSB,Rust,4,Viki,12m,Rework,Completed,17-06-2024,-,Arun,-,-
+97,15-06-2024,A,12m,General,-,Gbh 110x2700,Burr,2,Arun,12m,Rework,Completed,17-06-2024,-,Viki,-,-
+98,14-06-2024,B,FPL,General,-,Row connector,Rust,40,Viki,FPL,Rework,Completed,14-06-2024,Muthu,Viki,Viki,Incoming Material
+99,14-06-2024,B,FPL,Instakart,-,sp 900x450,Dent,1,Viki,FPL,Scrap,Completed,19-06-2024,-,Arun,-,-
+100,14-06-2024,C,FPL,Instakart,-,sp 900x450,Rust,12,Viki,FPL,Rework,Completed,14-06-2024,Nannan,Viki,viki,incoming Material
+101,14-06-2024,B,9m,Zomato,-,Stability Beam 1291,Oil mark,48,Viki,9m,Rework,Completed,14-06-2024,muthu,Viki,viki,Incoming material
+102,14-06-2024,B,9m,Instakart,-,S/c Kick Plate,Rust,1,Viki,9m,Rework,Completed,15-06-2024,muthu,Viki,-,-
+103,14-06-2024,B,9m,Instakart,-,GBH beam,Dent,2,Viki,9m,Salvage,Completed,22-06-2024,arun,Arun,-,-
+104,15-06-2024,C,Hem,Paaxar,-,hem+ 115x2700,Bow,102,Rajaraman,HO aisle,Rework,Completed,18-06-2024,line operator,-,Ram,Operator gnanam incorrect BCU setting
+105,15-06-2024,B,12m,Instakart,-,GXL Upright 110x10700,Daamge,1,Viki,12m,Scrap,Completed,20-06-2024,-,Arun,-,-
+106,15-06-2024,C,12m,General,-,Ghem+ 100x2400,Weld Hole,1,Viki,12m,Rework,Completed,17-06-2024,-,Arun,-,-
+107,15-06-2024,C,12m,General,-,GBH 110x3300,Damage,3,Viki,12m,Rework,Completed,18-06-2024,-,Arun,-,-
+108,17-06-2024,A,12m,GFA,-,GSB 100x2700,Weld Hole,1,Viki,12m,Rework,Completed,19-06-2024,-,Viki,-,-
+109,17-06-2024,A,12m,General,-,GBH 135x3300,Weld Hole,2,Viki,12m,Rework,Completed,18-06-2024,-,Viki,-,-
+110,15-06-2024,B,9m,DHL,-,Column,Rust,1,Viki,9m,Rework,Completed,18-06-2024,balaji,Arun,-,-
+111,17-06-2024,C,FPL,MTA,-,Row connector SB,Rust,1,Viki,FPL,Rework,Completed,18-06-2024,-,Viki,-,-
+113,18-06-2024,A,FPL,Oaxar,-,Base Plate OR,Rust,73,Arun,FPL,Rework,Completed,19-06-2024,muthu,Arun,arun,-
+114,18-06-2024,A,FPL,MTA,-,GX Stiffner SB,Rust,90,Viki,FPL,Rework,Completed,19-06-2024,-,Arun,-,-
+115,17-06-2024,C,12m,Instakart,-,GSB 120x2700 TY,Line MArk,4,Viki,12m,Rework,Completed,19-06-2024,-,Arun,-,-
+116,17-06-2024,C,12m,Instakart,-,GSB 120x2700,Damage,1,Viki,12m,Salvage,Completed,18-06-2024,ajith,Arun,arun,-
+118,18-06-2024,A,12m,Bluemach,-,PSB SB,Damage,2,Arun,12m,Scrap,Completed,22-06-2024,-,Viki,Saravanan,Handling damage
+119,18-06-2024,A,12m,Paxar,-,Ghem+ 115x2700,Burr,1,Arun,12m,Rework,Completed,20-06-2024,-,-,-,-
+120,19-06-2024,B,12m,Magic,-,GXL Upright 90x12000 SB,Double Punch,1,Arun,12m,Scrap,Completed,19-06-2024,-,Mukundan,-,-
+121,19-06-2024,B,12m,Prompt,-,GSB 110x2500 OR,Damage,1,Arun,12m,Scrap,Completed,20-06-2024,-,Viki,-,-
+123,19-06-2024,B,12m,Rent,-,HDS OB,Daamge,3,Arun,12m,Scrap,Completed,21-06-2024,-,-,-,-
+124,19-06-2024,C,12m,Loreal,-,GXL Upright 90x7900 SB,Oil mark,1,Arun,12m,Rework,Completed,20-06-2024,dawood,Viki,viki,-
+125,19-06-2024,A,FPL,Relicap,-,sp,Sticker mark,11,Viki,FPL,Rework,Completed,20-06-2024,-,Viki,-,-
+126,19-06-2024,A,FPL,Instakart,-,PSB TY,Damage,5,Viki,FPL,Scrap,Completed,20-06-2024,-,Arun,-,-
+127,19-06-2024,B,FPL,RPL,-,Kick Plate,Rust,6,Arun,FPL,Rework,Completed,20-06-2024,Muthu,Viki,muthu,-
+128,19-06-2024,B,FPL,Innovative,-,sp 300x1200 LG,Sticker mark,1,Arun,FPL,Rework,Completed,20-06-2024,-,Viki,-,-
+129,19-06-2024,A,9m,Itoki MTA,-,Mobile Cladding,Rust,2,Viki,9m,Rework,Completed,20-06-2024,viki,Viki,viki,-
+130,21-06-2024,A,Box,Instakart,GON002605,GB 175x3800,lead lag and twist,58,Rohit,HO aisle,Salvage,Completed,24-06-2024,ram,-,Krishna Kumar,manual entry.
+132,21-06-2024,B,sp,general navigation,-,sp 500x1400,oil mark,2750,Rajaraman,HO aisle,Rework,Completed,23-06-2024,-,Mukundan,krishna,coil oil
+133,21-06-2024,C,sp,General navigation,-,sp 500x1400,oil mark,300,Sathyamurthy,HO aisle,Rework,Completed,30-06-2024,Yograj,Mukundan,-,coil oil
+134,21-06-2024,C,GXL UR,-,-,gxl90x6700,width variation,24,Sathyamurthy,HO aisle,Scrap,Completed,23-06-2024,vijaybabu,Rohit,-,-
+135,20-06-2024,A,12m,GFA,-,Ghem+ 110x2700,Burr,20,Arun,12m,Rework,Completed,22-06-2024,-,-,-,-
+136,21-06-2024,A,12m,Instakart,-,GBH 175x3400 OR,Roller Mark,1,Viki,12m,Scrap,Completed,24-06-2024,-,-,-,-
+137,21-06-2024,B,12m,GFA,-,hem+,Damage,2,Arun,12m,Salvage,Completed,26-07-2024,-,Arun,Saravanan,Handling damage
+138,21-06-2024,C,12m,GFA,-,Ghem+ 100x2300,Line mark,2,Arun,12m,Salvage,Completed,24-06-2024,-,Viki,-,-
+139,22-06-2024,B,12m,Vardhman,-,Ghem+ 110x1600,Rust,14,Arun,12m,Rework,Completed,24-06-2024,ajith,Arun,arun,-
+140,22-06-2024,B,12m,Zenith,-,GXL Upright 9000 OB,Burr,1,Arun,12m,Rework,Completed,22-06-2024,-,Mukundan,-,-
+141,22-06-2024,B,12m,MSE,-,hem+110x2500,Burr,2,Arun,12m,Rework,Completed,24-06-2024,-,-,-,-
+142,20-06-2024,B,FPL,Prompt,-,sp 600x1300,Rust,2,Viki,FPL,Rework,Completed,21-06-2024,muthu,Arun,arun,-
+143,20-06-2024,A,FPL,Prompt,-,sp,rust,1,Arun,FPL,Rework,Completed,21-06-2024,muthu,Arun,arun,-
+144,21-06-2024,A,FPL,Instakart,-,PSB,Damage,6,Viki,FPL,Scrap,Completed,22-06-2024,nannan,Arun,arun,-
+145,21-06-2024,B,FPL,Radix,-,sp,Sticker Mark,1,Arun,FPL,Rework,Completed,21-06-2024,nannan,Arun,nannan,-
+146,22-06-2024,A,FPL,Instakart,-,PSB,Damage,2,Arun,FPL,Salvage,Completed,24-06-2024,muthu,Arun,arun,-
+147,22-06-2024,B,FPL,Zomato,-,sp,Dent,2,Arun,FPL,Rework,Completed,24-06-2024,muthu,Arun,arun,-
+148,20-06-2024,C,9m,Instakart,-,GBH 125x3395,Rust,1,Viki,9m,Rework,Completed,20-06-2024,ajith,Viki,arun,-
+149,21-06-2024,A,9m,Instakart,-,tie beam,weld hole,1,Viki,9m,Divertion,Completed,21-06-2024,muthu,Viki,viki,-
+150,21-06-2024,A,9m,Instakart,-,tie beam,rust,2,Viki,9m,Rework,Completed,21-06-2024,muthu,Arun,arun,-
+151,21-06-2024,A,9m,DHL,-,Tie beam,Daamge,1,Viki,9m,Divertion,Completed,21-06-2024,muthu,Arun,viki,-
+152,21-06-2024,A,9m,Ashok,-,Column,rust,1,Viki,9m,Rework,Completed,21-06-2024,muthu,Viki,viki,-
+153,22-06-2024,A,9m,Instakart,-,GSB AW TY,Damage,3,Viki,9m,Scrap,Completed,10-07-2024,-,Arun,Nannan,-
+154,22-06-2024,A,GXL UR,MSE,-,hem+100x2400,line mark,70,Vinoth,HO aisle,Rework,Completed,26-06-2024,krishna,Rohit,-,-
+155,22-06-2024,B,Hem,MSE,-,hem+110x2700,length variation,40,Vinoth,HO aisle,Salvage,Completed,26-06-2024,sankar,Mukundan,-,-
+156,22-06-2024,B,AW N,MSE,-,hem+110x2700,depth problem,16,Vinoth,AW N,Salvage,Completed,25-06-2024,sharanraj,Rohit,-,-
+157,26-06-2024,C,WP,Instakart,GOK009382,W/P 200x896,slot offset,56,Silamarasan,Quarentine area,Scrap,Completed,29-06-2024,ram,Rohit,Ram,9 mm tool bush bold thread damaged
+158,24-06-2024,C,9m,Instakart,-,S/c frm assy TY,Rust,3,Viki,9m,Rework,Completed,25-06-2024,nannan,Viki,viki,-
+159,24-06-2024,C,9m,Proto,-,Cable Tray,rust,2,Viki,9m,Rework,Completed,24-06-2024,nannan,Viki,viki,-
+160,24-06-2024,C,9m,Instakart,-,Joist beam LG,Rust,2,Viki,9m,Rework,Completed,25-06-2024,nannan,Viki,viki,-
+161,25-06-2024,C,9m,Instakart,-,Ghem+ Joist beam LG,Rust,2,Viki,9m,Rework,Completed,25-06-2024,muthu,Viki,viki,-
+162,26-06-2024,B,9m,Instakart,-,S/c Channel TY,Rust,1,Arun,9m,Rework,Completed,27-07-2024,-,Arun,Nannan,-
+163,26-06-2024,B,9m,Instakart,-,GSB 120x3400 TY,damage,3,Arun,9m,Scrap,Completed,26-06-2024,muthu,Arun,arun,-
+164,24-06-2024,A,12m,General,-,GXL Upright SB,Sticker mark,1,Viki,12m,Rework,Completed,25-06-2024,Gowtham,Viki,Dawooth,Sticker pasted in the upright
+165,26-06-2024,B,12m,Instakart,-,GBH OR,Burr,1,Arun,12m,Rework,Completed,-,-,-,-,-
+166,24-06-2024,B,12m,Iron,-,GXL UR 110x9400 SW,Double punch,1,Arun,12m,Scrap,Completed,24-06-2024,karthik,Mukundan,-,-
+167,25-06-2024,B,12m,Iron,-,GXL Upright 110 SW,Rust,4,Arun,12m,Rework,Completed,28-06-2024,Ajith,Arun,Ajith,Material
+168,25-06-2024,A,12m,Iron,-,GXL Upright SW,Burr,2,Viki,12m,Rework,Completed,-,-,-,-,-
+169,25-06-2024,A,12m,Iron,-,GXL Upright SW,Damage,1,Viki,12m,Rework,Completed,27-06-2024,-,Arun,Dawooth,Handling damage
+170,25-06-2024,C,12m,Hitech,-,Ghem+ 110x2400 OR,Rust,3,Arun,12m,Rework,Completed,25-06-2024,ajith,Arun,arun,-
+171,25-06-2024,C,12m,GFA,-,GBH 125x2700 OR,Welding Hole,1,Arun,12m,Rework,Completed,26-06-2024,Subramani,Mukundan,-,-
+172,26-06-2024,A,12m,MSE,-,Ghem+ 110x2700 OR,Burr,2,Viki,12m,Rework,Completed,-,-,-,-,-
+173,26-06-2024,A,12m,Kaizen,-,GXL Upright SB,Length Variation,2,Viki,12m,Scrap,Completed,26-06-2024,saravanan,Viki,viki,-
+174,26-06-2024,A,12m,Gerardo,-,GXL Upright 90 SB,Damage,3,Viki,12m,Scrap,Completed,26-06-2024,saravanan,Viki,viki,-
+175,26-06-2024,A,12m,Asian,-,GL Upright SB,Damage,1,Viki,12m,Scrap,Completed,26-06-2024,saravanan,Viki,viki,-
+176,26-06-2024,A,12m,ALMG,-,GXL Upright 90 SB,Rust,5,Viki,12m,Rework,Completed,27-06-2024,Ajith,Arun,Ajith,Material
+177,26-06-2024,B,12m,GFA,-,GSB OR,Rust,3,Arun,12m,Rework,Completed,28-06-2024,Gowtham,Arun,Dawooth,Material
+178,26-06-2024,B,12m,Astral,-,GBH 110x3300 OR,Rust,4,Arun,12m,Rework,Completed,29-06-2024,Gowtham,Arun,Dawooth,Material
+179,24-06-2024,A,FPL, Neveast,-,MF6BP 600x905 BSG,Rust,20,Viki,FPL,Rework,Completed,24-06-2024,vijay,Viki,viki,-
+180,24-06-2024,A,FPL, Neveast,-,MF6BP 600x905 BSG,Damage,12,Viki,FPL,Scrap,Completed,26-06-2024,-,Viki,Nannan,Handling Damage
+181,24-06-2024,B,FPL,Maz,-,sp 900x400,Damage,1,Arun,FPL,Scrap,Completed,06-07-2024,Ajeeth,Viki,-,-
+182,24-06-2024,B,FPL,Kaizen,-,sp 1300x300 LG,Rust,12,Arun,FPL,Rework,Completed,24-06-2024,nannnan,Arun,arun,-
+183,24-06-2024,C,FPL, Neveast,-,MF6BP 600x905 BSG,Dent,2,Arun,FPL,Scrap,Completed,26-06-2024,-,Viki,Nannan,Handling Damage
+184,25-06-2024,A,FPL,MTA,-,GX Stiffner SB,Rust,2,Viki,FPL,Rework,Completed,25-06-2024,vijay,Viki,viki,-
+185,25-06-2024,B,FPL, Neveast,-,MF6BP 600x905 BSG,rust,7,Arun,FPL,Rework,Completed,25-06-2024,nannan,Arun,arun,-
+186,25-06-2024,B,FPL, Neveast,-,MF6BP 600x905 BSG,Damage,10,Arun,FPL,Scrap,Completed,26-06-2024,-,Viki,Nannan,Handling Damage
+187,26-06-2024,A,FPL, Neveast,-,MF6BP 600x905 BSG,damage,6,Viki,FPL,Scrap,Completed,-,-,Viki,Nannan,Handling Damage
+188,26-06-2024,B,FPL,GFA,-,MF6BP 600x905 BSG,damage,4,Viki,FPL,Scrap,Completed,26-06-2024,-,Viki,Nannan,Handling Damage
+189,26-06-2024,B,FPL,Instakart,-,sp 400x900 LG,Rust,6,Viki,FPL,Rework,Completed,27-06-2024,Gopi,Arun,Nannan,Material
+190,27-06-2024,A,Hem,MSE,-,hem+110x2700,length variation,150,Mukundan,Hem,Salvage,Completed,28-06-2024,sankar,Mukundan,ram,hemshaft roller pin cam out
+191,27-06-2024,C,Hem,MSE,-,hem+110x2700,line mark,102,Silamarasan,Hem,Rework,Completed,28-06-2024,Ram,Mukundan,-,-
+192,29-06-2024,A,Hem,MSE,-,Hem+110x2700,Length variation,109,Mukundan,HO aisle,Salvage,Completed,01-07-2024,ram,Rohit,Ranjith,Prenotch leadscrew locknut loose
+193,29-06-2024,A,Hem,MSE,-,Hem+110x2700,Edge damage,81,Mukundan,Hem,Rework,Completed,29-06-2024,Simon,-,Ranjith,Prepunch leadscrew locknut loose
+194,29-06-2024,B,Old UR,Slynak fashions,-,Gx70x2600,cutter mark,50,Veramuthu,Old UR,Rework,Completed,29-06-2024,Yograj,Rohit,Yograj,-
+195,29-06-2024,B,Angle,DHL,-,MF35x1150,Wrong RM grade(GP instead of HR),540,Veramuthu,HO aisle,Scrap,Completed,22-07-2024,Yograj,Rohit,Krishnakumar,RM checkpoint not in SOP
+196,29-06-2024,C,WP,DHL,-,WP150x4246,GA coating peel off,16,Silamarasan,WP,Scrap,Completed,04-07-2024,Naresh,Mukundan,Ram,Hopat coil
+197,29-06-2024,C,Hem+,-,-,Hem+85x1391,Twist,36,Sathyamurthy,Hem+,Rework,Completed,29-06-2024,Ram,Rohit,Ram,BCU setting
+198,30-06-2024,A,WP,DHL,-,WP150x4246,White Rust,33,Mani,WP,Salvage,Completed,04-07-2024,Naresh,Mukundan,Saranraj,RM
+199,27-06-2024,A,12m,MSE,-,Ghem+ 110x2700 OR,Burr,2,Viki,12m,Rework,Completed,-,-,-,-,-
+200,28-06-2024,A,12m,GFA,-,GSB 60x2500 OR,Damage,1,Viki,12m,Scrap,Completed,03-07-2024,ajith,Arun,arun,-
+201,28-06-2024,A,12m,Industrial,-,GBH 135x2700 OR,Sticker Mark,1,Viki,12m,Rework,Completed,03-07-2024,ajith,Viki,viki,-
+202,28-06-2024,B,12m,Classic,-,GXL Upright 90x10800 SB,Rust,5,Arun,12m,Rework,Completed,28-06-2024,Ajith,Arun,arun,-
+203,28-06-2024,B,12m,Aura,-,GXL Upright 70x10200 SB,Damage,1,Arun,12m,Scrap,Completed,08-07-2024,-,Viki,Saravanan,Handling Damage
+204,28-06-2024,C,12m,Iron,-,GXL Upright 110x6550 SW,Burr,2,Arun,12m,Rework,Completed,28-06-2024,MF,Arun,arun,-
+205,29-06-2024,A,12m,Magic,-,GXL Upright 90x12000 SB,Damage,1,Viki,12m,Scrap,Completed,03-07-2024,ajith,Viki,viki,-
+206,29-06-2024,B,12m,Classic,-,GXL U/R 90x10800 SB,Rust,5,Arun,12m,Rework,Completed,29-06-2024,ajith,Arun,arun,-
+207,29-06-2024,B,12m,Magic,-,GSB 60x2510 OR,Rust,1,Arun,12m,Rework,Completed,29-06-2024,ajith,Arun,arun,-
+208,29-06-2024,C,12m,GFA,-,Ghem+ 100x2300 OR,Burr,5,Arun,12m,Rework,Completed,-,-,-,-,-
+209,29-06-2024,C,12m,GFA,-,Ghem+ 100x2300 OR,Rust,4,Arun,12m,Rework,Completed,29-06-2024,ajith,Arun,arun,-
+210,29-06-2024,C,12m,GFA,-,Ghem 110x2700 OR,Burr,3,Arun,12m,Rework,Completed,29-06-2024,ajith,Arun,arun,-
+211,29-06-2024,C,12m,GFA,-,Ghem+ 110x2700 OR,Damage,1,Arun,12m,Scrap,Completed,03-07-2024,dawood,Arun,arun,-
+212,29-06-2024,C,12m,Merakh,-,GXL U/R 9000 SB,Sticker Mark,1,Arun,12m,Rework,Completed,03-07-2024,dawood,Arun,arun,-
+213,29-06-2024,C,12m,Merakh,-,GXL U/R SB,Damage,1,Arun,12m,Scrap,Completed,08-07-2024,-,Viki,saravanan,Handling Damage
+214,30-06-2024,A,12m,General,-,GXL U/R 90x11700 SB,Oil Mark,28,Arun,12m,Rework,Completed,03-07-2024,ajith,Arun,Arun,-
+215,01-07-2024,A,12m,SWIFT,-,GSB 60x2500 OR,Damage,1,Arun,12m,Scrap,Completed,03-07-2024,ajith,Viki,viki,-
+216,27-06-2024,B,9m,Instakart,-,Joist Beam 60x5400 LG,Rust,7,Arun,9m,Rework,Completed,27-06-2024,nannan,Arun,arun,-
+217,27-06-2024,B,9m,Instakart,-,Ghem+ 85x2085 LG,Oil Mark,5,Arun,9m,Rework,Completed,27-06-2024,nannan,Arun,Arun,-
+218,27-06-2024,C,9m,Instakart,-,Joist beam LG,Damage,2,Arun,9m,Scrap,Completed,06-07-2024,Muthu,Viki,-,-
+219,28-06-2024,C,9m,MTA,-,Pallet Stopper Pipe YE,Rust,4,Arun,9m,Rework,Completed,28-06-2024,muthu,Arun,Arun,-
+220,28-06-2024,C,9m,Instakart,-,Ghem+ Jst beam LG,Rust,1,Arun,9m,Rework,Completed,06-07-2024,Muthu,Viki,-,-
+221,29-06-2024,B,9m,Falkan,-,G50 Upright LG,Damage,1,Arun,9m,Scrap,Completed,05-07-2024,-,Arun,Nannan,-
+222,29-06-2024,C,9m,Instakart,-,BM CA N3 LG,Roller Mark,3,Arun,9m,Rework,Completed,29-06-2024,muthu,Arun,arun,-
+223,27-06-2024,B,FPL,Instakart,-,APO CA Channel LG,Rust,2,Arun,FPL,Rework,Completed,27-06-2024,muthu,Arun,arun,-
+224,27-06-2024,B,FPL,Instakart,-,SP 450x900 LG,Sticker Mark,1,Arun,FPL,Rework,Completed,27-06-2024,muthu,Arun,Arun,-
+225,27-06-2024,C,FPL,Instakart,-,SP 900x450 LG,Damage,3,Arun,FPL,Divertion,Completed,05-07-2024,Balaji,Arun,Vijayakumar,Used for palets
+226,28-06-2024,A,FPL,Magic,-,BAse Plate GX 90 SB,Rust,22,Viki,FPL,Rework,Completed,28-06-2024,muthu,Viki,viki,-
+227,28-06-2024,B,FPL,Iron,-,Bracing SW,Sticker Mark,2,Arun,FPL,Rework,Completed,06-07-2024,Muthu,Viki,-,-
+228,28-06-2024,B,FPL,Magic,-,SP 1300x500 LG,Rust,2,Arun,FPL,Rework,Completed,28-06-2024,vijay,Arun,arun,-
+229,28-06-2024,C,FPL,Balkan,-,SP 1300x400 LG,Damage,1,Arun,FPL,Divertion,Completed,04-07-2024,Gopi,Arun,Vijayakumar,Used for palets
+230,29-06-2024,B,FPL,Instakart,-,SP 900x450 LG,Damage,2,Arun,FPL,Divertion,Completed,05-07-2024,Gopi,Arun,Vijayakumar,Used for pallets
+231,29-06-2024,B,FPL,GFA,-,MF 6 BP 905x371 LG,Rust,3,Arun,FPL,Rework,Completed,29-06-2024,Arun,Arun,arun,-
+232,29-06-2024,C,FPL,MTA,-,Row connector SB,Sticker Mark,1,Viki,FPL,Rework,Completed,29-06-2024,Vijay,Arun,Arun,-
+233,29-06-2024,C,FPL,MTA,-,Row connector SB,Rust,2,Arun,FPL,Rework,Completed,29-06-2024,vijay,Arun,arun,-
+234,01-07-2024,B,FPL,MTA,MTA,GX stiffener ,Cutter mark ,1500,Ambedkar,Quarentine area,Rework,Completed,26-07-2024,Naresh,Mukundan,ram ,profile correction
+238,01-07-2024,B,Hem,GFA,-,Hem+110x2700,Length variation,100,Silamarasan,Hem,Salvage,Completed,01-07-2024,Ram,Rohit,Ram,Coil slip
+240,02-07-2024,A,WP,Instakart,-,WP Emb 200x2796,White rust,68,Mukundan,WP,Scrap,Completed,04-07-2024,Naresh,Mukundan,Naresh,RM
+241,01-07-2024,B,9m,DHL,-,S/c Frm Assy BY,Rust,1,M.Balaji,9m,Rework,Completed,01-07-2024,Nannan,Viki,nannan,-
+242,02-07-2024,C,9m,Itoki MTA,-,Channel CG,Rust,4,N.Murugan,9m,Rework,Completed,04-07-2024,-,Arun,Vijayakumar,Material
+243,03-07-2024,B,9m,Instakart,-,DF Unit Gap closure,Dent,1,M.Balaji,9m,Scrap,Completed,05-07-2024,-,Arun,Nannan,-
+244,03-07-2024,B,9m,Itoki MTA,-,Rail slope plate CG,Weld Damage,1,M.Balaji,9m,Scrap,Completed,08-07-2024,muthu,Viki,viki,-
+245,03-07-2024,C,9m,Ashok,-,GBH PSB LG,Rust,4,N.Murugan,9m,Rework,Completed,04-07-2024,Vijay,Arun,arun,-
+246,01-07-2024,A,12m,GFA,-,GSB 60x2500 OR,Damage,1,Gowrisankar,12m,Scrap,Completed,03-07-2024,ajith,Viki,viki,-
+247,01-07-2024,C,12m,Delivery,-,GXL Upright 110x9800 SB,Rust,4,Karanraj,12m,Rework,Completed,02-07-2024,Dawood,Arun,arun,-
+248,01-07-2024,C,12m,GFA,-,Ghem+ 110x2800 OR,Damage,1,Karanraj,12m,Scrap,Completed,02-07-2024,dawood,Sridhar,arun,-
+249,02-07-2024,A,12m,Rubamin,-,GXL Upright 110x10450 SB,Damage,1,Gowrisankar,12m,Scrap,Completed,08-07-2024,Ajith,Arun,Arun,-
+250,02-07-2024,B,12m,GFA,-,GSB 2500 OR,Rust,1,B.Raja,12m,Rework,Completed,03-07-2024,ajith,Arun,arun,-
+251,02-07-2024,B,12m,GFA,-,Ghem+ 110x2700 OR,Sticker Mark,1,B.Raja,12m,Rework,Completed,06-07-2024,Ajeeth,Arun,-,-
+252,02-07-2024,C,12m,Zomato,-,GXL Upright 110x10100 SB,Damage,1,Karthik,12m,Scrap,Completed,04-07-2024,ajith,Viki,viki,-
+253,03-07-2024,A,12m,Rubamin,-,GBH 110x2900 OR,Rust,15,Gowrisankar,12m,Rework,Completed,03-07-2024,Dawood,Arun,arun,-
+254,03-07-2024,A,12m,Rubamin,-,GBH 110x2900 OR,Misweld,1,Gowrisankar,12m,Divertion,Completed,03-07-2024,Dawood,Arun,arun,-
+255,28-06-2024,A,12m,Tata ESD,-,Mobile Cladding LG ESD,Uncover,24,Karthik,12m,Rework,Completed,08-07-2024,Nannan,Sridhar,Viki,-
+256,03-07-2024,A,12m,Instakart,-,GSB 80x3400 TY,Rust,22,Gowrisankar,12m,Rework,Completed,11-07-2024,Gowtham,Arun,Dawooth,-
+257,03-07-2024,B,12m,Iron,-,GXL Upright 110x8950 Sw,Damage,1,B.Raja,12m,Scrap,Completed,05-07-2024,-,Arun,Perumal,-
+258,03-07-2024,C,12m,GFA,-,Ghem+ 110x2700 OR,Rust,2,Karanraj,12m,Rework,Completed,05-07-2024,Gowtham,Sridhar,Dawooth,Material
+259,04-07-2024,A,12m,GFA,-,Ghem+ 100x2300 OR,Weld Hole,1,Gowrisankar,12m,Divertion,Completed,04-07-2024,ajith,Viki,viki,-
+260,01-07-2024,B,FPL,MTA,-,GX Stiffner SB,Roller MArk,110,Niyas,FPL,Divertion,Completed,02-07-2024,Muthu,Arun,Arun,-
+261,01-07-2024,B,FPL,Iron,-,Bottom stiffner,Rust,5,Niyas,FPL,Rework,Completed,02-07-2024,muthu,Arun,arun,-
+262,01-07-2024,C,FPL,MTA,-,GX stiffner SB,Burr,2,Dhamodharan,FPL,Rework,Completed,06-07-2024,Balaji,Arun,Vijayakumar,Material
+263,03-07-2024,A,FPL,Iron,-,Diag Bracing SW,Burr,230,Abubakar,FPL,Divertion,Completed,03-07-2024,Arun,Arun,Arun,-
+264,03-07-2024,B,FPL,Iron,-,Diag Bracing SW,Burr,200,Mukundan,Quarentine area,Rework,Completed,27-07-2024,-,Mukundan,-,-
+265,03-07-2024,B,FPL,Instakart,-,SP 900x450 LG,Sticker Mark,2,Niyas,FPL,Rework,Completed,03-07-2024,muthu,Viki,viki,-
+266,03-07-2024,B,FPL,Instakart,-,SP 900x450 LG,Damage,1,Niyas,FPL,Scrap,Completed,03-07-2024,viki,Viki,viki,-
+267,03-07-2024,C,FPL,Innovative,-,SP 350x1200 LG,Sticker Mark,3,Dhamodharan,FPL,Rework,Completed,03-07-2024,nannan,Viki,viki,-
+268,04-07-2024,A,SP,jeda,-,sp500x1300,Lock open,32,Mukundan,Quarentine area,Scrap,Completed,09-07-2024,Naresh,Mukundan,naresh kumar ,setting  part
+269,04-07-2024,C,Press shop,AFAQ,-,Apo 3lip connector ,bending variation ,100,Mani,Press shop,Scrap,Completed,05-07-2024,-,-,Krishna Kumar ,improper setting  of stopper
+270,05-07-2024,B,Old UR,-,-,Gx70x5100,line mark,11,Silamarasan,HO aisle,Scrap,Completed,05-07-2024,-,-,Ram,-
+271,05-07-2024,C,Hem,GFA,-,hem+110x2700,length variation,300,Rajaraman,Hem,Deviation,Completed,09-07-2024,Naresh,Mukundan,krishnakumar,-
+274,04-07-2024,C,12m,GFA,-,Ghem+ 100x2300 OR,sticker mark,1,Karthik,12m,Rework,Completed,09-07-2024,Dawood,Arun,Arun,-
+275,05-07-2024,A,12m,GFA,-,Ghem+ 100x2300 OR,Burr,1,Gowrisankar,12m,Rework,Completed,08-07-2024,-,Mukundan,-,-
+276,08-07-2024,A,WP,Instakart,-,WP EMB 200x4496,White rust,16,Silamarasan,WP,Scrap,Completed,06-07-2024,Ram,Rohit,Ram,RM
+277,06-07-2024,B,Hem,GFA,-,Hem+110x2700,Length variation,125,Silamarasan,HO aisle,Deviation,Completed,09-07-2024,Naresh,Mukundan,Ram,-
+278,06-07-2024,B,JDM CF,GFA,GX 4 Lip,-,Lance height close,1000,Rohit,JDM CF,Scrap,Completed,11-07-2024,Naresh,Mukundan,Ram,Air cleaning not done
+279,06-07-2024,A,Step,Instakart,-,GSB80x20x3400,Roller mark,132,Mukundan,Quarentine area,Deviation,Completed,09-07-2024,Naresh,Sadish,Naresh,RF setting
+280,08-07-2024,A,Hem,GFA,-,Hem+110x2700,Length variation,90,Ambedkar,HO aisle,Deviation,Completed,09-07-2024,Naresh,Mukundan,Naresh,-
+282,08-07-2024,A,AW N,GFA,-,Hem+110x2700,QR code missing,200,Ambedkar,HO aisle,Rework,Completed,08-07-2024,Simon,Mukundan,Simon,Shift communication gap
+283,05-07-2024,C,12m,GFA,-,GSB 100x2700,Weld hole,1,Karthik,12m,Rework,Completed,06-07-2024,-,Mukundan,-,-
+284,05-07-2024,C,12m,GFA,-,Hem+100x2300,damage,1,Karthik,12m,Scrap,Completed,09-07-2024,Dawood,Arun,Arun,-
+286,06-07-2024,A,12m,Zomato,-,GXL upright 90x10100,Damage,1,Gowrisankar,12m,Scrap,Completed,09-07-2024,Dawood,Arun,Arun,-
+287,06-07-2024,C,-,AFAQ,-,GXLB90x12000,Damage,2,Karthik,HO aisle,Scrap,Completed,09-07-2024,Ajith,Arun,Arun,-
+288,06-07-2024,B,FPL,Instakart,-,sp 900x450 LG,Damage,1,Niyas,FPL,Scrap,Completed,09-07-2024,Nannan,Arun,Arun,-
+289,06-07-2024,C,FPL,Instakart,-,PSB TY,Rust,14,Dhamodharan,FPL,Rework,Completed,12-07-2024,Gowtham,Arun,Dawooth,-
+290,08-07-2024,B,FPL,Instakart,-,sp 900x450 LG,Damage,1,Karanraj,12m,Scrap,Completed,09-07-2024,Ajith,Arun,Arun,-
+291,08-07-2024,B,FPL,Instakart,-,Kick Plate TY,Rust,1,Karanraj,FPL,Rework,Completed,09-07-2024,Nannan,Viki,Viki,-
+292,08-07-2024,B,FPL,Aura,-,Shelf Stiffner SB,Rust,1,Karanraj,FPL,Rework,Completed,09-07-2024,Nannan,Arun,Arun,-
+293,04-07-2024,C,9m,Instakart,-,GBH end cover LG,Rust,1,N.Murugan,9m,Rework,Completed,09-07-2024,Muthu,Viki,Viki,-
+294,06-07-2024,B,9m,Instakart,-,Railing Pipe TY ,Oil Mark,26,M.Balaji,9m,Rework,Completed,12-07-2024,Vasu,Arun,Ajith,Incoming material
+295,08-07-2024,B,9m,Itoki MTA,-,Mobile Cladding LG,Damage,3,N.Murugan,9m,Scrap,Completed,09-07-2024,Muthu,Viki,Viki,-
+296,08-07-2024,C,9m,Itoki MTA,-,Mobile Cladding CG,Rust,11,M.Balaji,9m,Rework,Completed,13-07-2024,Arasu,Arun,Nannan,material
+297,08-07-2024,A,12m,GFA,-,Ghem+ 100x2300 OR,Oil Mark,43,B.Raja,12m,Rework,Completed,13-07-2024,Vasu,Arun,Karthik,-
+298,08-07-2024,A,12m,Aura,-,GSB 100x2500 OR,Rust,38,B.Raja,12m,Rework,Completed,13-07-2024,Gowtham,Arun,Dawooth,-
+299,08-07-2024,B,12m,Aura,-,GSB 100x2500 OR,Rust,21,Karthik,12m,Rework,Completed,13-07-2024,Gowtham,Arun,Dawooth,-
+300,08-07-2024,B,9m,GFA,-,Ghem+ 110x2700 OR,Sticker Mark,4,Karthik,12m,Rework,Completed,09-07-2024,Dawood,Arun,Arun,-
+301,08-07-2024,B,12m,GFA,-,Ghem+ 110x2700 OR,Oil Mark,7,Karthik,12m,Rework,Completed,13-07-2024,Gowtham,Arun,Dawooth,-
+302,08-07-2024,B,12m,Afaq,-,GXL Upright 90x12000 LG,Damage,1,Karthik,12m,Scrap,Completed,08-07-2024,Ajith,Arun,Arun,-
+303,08-07-2024,C,12m,Afaq,-,GXL Upright 90x12000 LG,Oil Mark,1,Gowrisankar,12m,Rework,Completed,15-07-2024,ajith,Arun,Arun,-
+304,08-07-2024,C,12m,Afaq,-,GXL Upright 90x12000 LG,Damage,1,Gowrisankar,12m,Scrap,Completed,09-07-2024,Ajith,Arun,Arun,-
+305,09-07-2024,A,AW N,GFA,-,Hem110x2700,Depth variation and undercut,47,Silamarasan,HO aisle,Scrap,Completed,-,simon,Mukundan,Simon,-
+306,09-07-2024,A,12m,magic,-,GSB 60 L2510 OR,Damage,1,B.Raja,12m,Scrap,Completed,15-07-2024,saravanan,Arun,arun,-
+307,09-07-2024,A,12m,GFA,-,Hem + 110 L2700 OR,Weld hole,1,B.Raja,12m,Rework,Completed,10-07-2024,Rajini,Mukundan,-,-
+308,09-07-2024,A,12m,GFA,-,Hem + 110 L2700 OR,Damage,1,B.Raja,12m,Scrap,Completed,15-07-2024,saravanan,Arun,Arun,-
+309,09-07-2024,A,12m,GFA,-,Hem + 110 L2700 OR,Oil Mark,48,B.Raja,12m,Rework,Completed,13-07-2024,Gowtham,Arun,Dawooth,-
+310,09-07-2024,B,FPL,AFAQ,AMAZON,Shelf Panel W500 L1300 LG,Lump Coating,80,Dhamodharan,FPL,Rework,Completed,10-07-2024,Vasu,Arun,Vijayakumar,Auto gun Delivery issue
+311,09-07-2024,B,FPL,AFAQ,AMAZON,Shelf Panel W500 L1300 LG,Rust,42,Dhamodharan,FPL,Rework,Completed,18-07-2024,nannan,Viki,viki,-
+312,09-07-2024,B,FPL,AFAQ,AMAZON,Shelf Panel W500 L1300 LG,3 in 1 mark,80,Dhamodharan,FPL,Rework,Completed,10-07-2024,Vasu,Arun,Vijayakumar,New Man power deployed
+313,09-07-2024,B,FPL,AFAQ,AMAZON,SP W500 L1300 LG,Buffing Mark,4,Dhamodharan,FPL,Scrap,Completed,18-07-2024,nannan,Viki,viki,-
+314,09-07-2024,B,FPL,AFAQ,AMAZON,GXLB UR W90 L7000 LG,Folding Uncover,9,Karthik,HO aisle,Rework,Completed,18-07-2024,Gowtham,Arun,Dawooth,-
+315,09-07-2024,B,12m,AFAQ,AMZON,GXLB UR W90 L7000 LG,Scratch Marks,2,Karthik,HO aisle,Rework,Completed,18-07-2024,Gowtham,Arun,Dawooth,-
+316,09-07-2024,A,SP,AFAQ,-,sp 600x1300,Length and width variation,55,Mukundan,HO aisle,Scrap,Completed,20-07-2024,Krishnakumar,Mukundan,Naresh,Change over
+317,09-07-2024,A,RW,GFA,-,GSB 60x20x2500,Trial,10,Mukundan,HO aisle,Deviation,Completed,20-07-2024,Prabha,Vishnu,Simon,Trial
+318,10-07-2024,A,12m,GFA,-,Hem + 110 L2700 OR,Oil Mark,10,B.Raja,12m,Rework,Completed,15-07-2024,saravanan,Arun,Arun,-
+319,10-07-2024,B,12m,AFAQ,Amazon,GXLB UR W90 L7050 TY,Lump Coating,16,Karthik,HO aisle,Rework,Completed,18-07-2024,Gowtham,Arun,Dawooth,-
+320,10-07-2024,B,12m,AFAQ,Amazon,GXLB UR W90 L7000 TY,Folding Uncover,34,Karanraj,12m,Rework,Completed,17-07-2024,dawood,Arun,arun,-
+321,10-07-2024,B,12m,AFAQ,Amazon,GXLB UR W90 L7050 TY,Damage,1,Karanraj,HO aisle,Rework,Completed,22-08-2024,ajith,Sridhar,viki,-
+322,10-07-2024,A,12m,AFAQ,Amazon,GXLB UR W90 L7050 TY,Lump Coating,15,Karthik,12m,Rework,Completed,18-07-2024,ajith,Arun,arun,Repainted
+323,10-07-2024,B,12m,INSTA,-,GSB 80 L3400 TY,Weld Hole,1,Karthik,12m,Rework,Completed,11-07-2024,Rajini,Mukundan,-,-
+324,10-07-2024,B,12m,GFA,-,GSB 70 L2300 OR,Damage,1,Karanraj,12m,Scrap,Completed,17-07-2024,dawood,Arun,arun,-
+325,10-07-2024,A,FPL,AFAQ,Amazon,Shelf Panel W500 L1300 LG,Dent/damages,14,Niyas,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+326,10-07-2024,B,FPL,AFAQ,Amzon,Shelf Panel W500 L1300 LG,Dent / Damage,7,Dhamodharan,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+327,10-07-2024,B,JDM CF,GFA,-,GX 4 lip ,lance height variation,1000,Mani,JDM CF,Rework,Completed,12-07-2024,Naresh kumar,Mukundan,Ram,-
+328,10-07-2024,A,AW N,GFA,-,Hem+ 85x2300x1.5,Depth variation,90,Mani,HO aisle,Rework,Completed,-,-,Mukundan,sugudev,-
+329,11-07-2024,B,Old UR,Aura,-,G70x10250,bow camber pitch variation,31,Mani,HO aisle,Scrap,Completed,-,-,-,Ram,BCU setting
+330,11-07-2024,A,SP,AFAQ,-,sp600x1300,Lip waviness,36,Mukundan,HO aisle,Scrap,Completed,-,-,-,Ram,Coil damage
+331,11-07-2024,A,FPL,AFAQ,Amazon,Shelf Panel W600 L1300 LG,Dent,1,Niyas,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+332,11-07-2024,B,FPL,AFAQ,Amazon,SP W600 L1300 LG,Rust,5,Karanraj,FPL,Rework,Completed,18-07-2024,nannan,Viki,viki,-
+333,11-07-2024,B,FPL,AFAQ,Amazon,Shelf Panel W600 L1300 LG,Damage,8,Karanraj,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+334,10-07-2024,C,9m,Itoki,-,Mobile Cladding,Rust,1,R.Usman,9m,Rework,Completed,18-07-2024,nannan,Viki,viki,-
+335,11-07-2024,C,9m,Magic,-,Sigma Bm 375 L4800 LG,Sticker Mark,2,R.Usman,9m,Rework,Completed,12-07-2024,Anand,Arun,Vijay,Material
+336,12-07-2024,A,9m,AFAQ,Amazon,Joist Bm 60 L2740 LG,Rust,63,M.Balaji,9m,Rework,Completed,12-07-2024,Anand,Arun,Vijay,Material
+337,12-07-2024,A,12m,Itoki,-,C Beam GG,Rust,2,M.Balaji,9m,Rework,Completed,19-07-2024,nannan,Viki,viki,-
+338,12-07-2024,B,9m,General,-,Box Upright L3550 SB,Rust,11,N.Murugan,9m,Rework,Completed,15-07-2024,ARASU,Arun,Nannan,material issue
+339,12-07-2024,B,JDM CF,GFA,-,GX 2 LC LH,lance offset,200,Mani,JDM CF,Scrap,Completed,-,-,-,Krishnakumar,Operator bhuvanesh error
+340,12-07-2024,C,Hem+,GFA,-,Hem+85x2300,Line mark,15,Silamarasan,HO aisle,Rework,Completed,13-07-2024,ram,Mukundan,ram,Hrpo coil
+341,13-07-2024,B,9m,General,-,S/c Frm Assy YE,Rust,1,N.Murugan,9m,Rework,Completed,20-07-2024,nannan,Viki,viki,-
+342,13-07-2024,B,9m,Delivery,-,Joist Beam 80 X 5395 LG,Rust,2,N.Murugan,9m,Rework,Completed,13-07-2024,nannan,Arun,Arun,-
+343,12-07-2024,C,FPL,Afaq,-,Base Plate GX 90 TY,Rust,48,Surya,FPL,Rework,Completed,13-07-2024,muthu,Viki,viki,-
+344,12-07-2024,C,FPL,Afaq,-,Base Plate GX 90 LG,Rust,3,Surya,FPL,Rework,Completed,22-07-2024,nannan,Viki,viki,-
+345,13-07-2024,A,FPL,Afaq,-,GX Base Plate 90 LG,Weld lump,2,Niyas,FPL,Scrap,Completed,22-07-2024,nannan,Viki,viki,-
+346,13-07-2024,B,FPL,Amazon,-,Base Plate Gx 90 LG,Rust,2,Dhamodharan,FPL,Rework,Completed,17-07-2024,Manikandan,Arun,Vijayakumar,-
+347,15-07-2024,A,FPL,ITC,-,R/C 30 X 900 SB,Taper Weld,2,Dhamodharan,FPL,Scrap,Completed,28-08-2024,-,Arun,Vijay,-
+348,13-07-2024,A,12m,Magic,-,GSB 60 X 2510 OR,Damage,1,Karthik,12m,Scrap,Completed,15-07-2024,Sriram,Arun,Dawooth,-
+349,13-07-2024,A,12m,GFA,-,Ghem+ 85 X 2300 OR,Burr,2,Karthik,12m,Scrap,Completed,17-07-2024,ajith,Arun,arun,-
+350,13-07-2024,A,12m,GFA,-,GSB 60 X 2500 OR,Rust,5,Karthik,12m,Rework,Completed,17-07-2024,ajith,Arun,arun,-
+351,15-07-2024,A,12m,Magic,-,GSB 60 X 2510 OR,Damage,1,Karthik,12m,Scrap,Completed,18-07-2024,ajith,Arun,arun,-
+352,15-07-2024,C,FPL,GFA,-,Sp 1300 X 400 LG,Damage,1,Niyas,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+353,15-07-2024,B,9m,General,-,Mesh Frm SB,Damage,1,R.Usman,9m,Scrap,Completed,16-07-2024,eashwar,Arun,arun,-
+354,15-07-2024,C,9m,General,-,Ghem+ AW 100 X 2842 LG,Damage,1,M.Balaji,9m,Scrap,Completed,15-07-2024,Muthu,Viki,Viki,-
+355,15-07-2024,B,12m,Magic,-,GSB 60 X 2510 OR,Rust,20,Gowrisankar,12m,Rework,Completed,23-07-2024,Vasu,Viki,Ajith,-
+356,15-07-2024,B,12m,GFA,-,GSB 100 X 2700 OR,Oil Mark,1,Gowrisankar,12m,Rework,Completed,23-07-2024,Vasu,Viki,Ajith,-
+357,15-07-2024,C,12m,Afaq,-,GXL UR 90 X 11950 TY,Damage,1,B.Raja,12m,Scrap,Completed,29-07-2024,dawood,Viki,viki,-
+358,16-07-2024,A,12m,GFA,-,Ghem+ 100 X 2700 OR,Damage,1,Karthik,12m,Scrap,Completed,16-07-2024,Sriram,Viki,Dawooth,-
+359,16-07-2024,A,12m,Iron,-,Guide Rail Inner OR,Rust,141,Karthik,12m,Deviation,Completed,27-07-2024,-,Sridhar,Ajith,-
+360,12-07-2024,C,GXL UR,General,-,GXL110x5800,low YS,30,Mukundan,GXL UR,Deviation,Completed,03-07-2024,-,Mukundan,-,-
+361,16-07-2024,B,GXL UR,General,-,GXL110x5800,Rust,144,Mukundan,HO aisle,Rework,Completed,16-07-2024,online in 12M ,Mukundan,-,Coil rust
+362,17-07-2024,A,Hem+,GOB00902,-,Hem+115x2300,drain hole missing,96,Rajaraman,MLF,Rework,Completed,25-07-2024,Rehman,Rohit,-,-
+363,17-07-2024,A,GXL UR,-,-,GXL110x11300,Rust,48,Mukundan,HO aisle,Rework,Completed,17-07-2024,online in 12M ,Mukundan,-,-
+364,17-07-2024,A,GXL UR,Magic,-,GXL110x11500,Mill scale,336,Mukundan,HO aisle,Rework,Completed,18-07-2024,online in 12M ,Rohit,-,RM
+365,17-07-2024,B,Brac,-,-,Support lighting 898,wrong type,612,Mukundan,HO aisle,Salvage,Completed,18-07-2024,Krishnakumar,Mukundan,-,Operator madan error
+367,17-07-2024,C,GXL UR,-,-,GXL110x11500,Mill scale,90,Silamarasan,HO aisle,Rework,Completed,17-07-2024,online in 12M ,Mukundan,-,RM
+368,16-07-2024,A,Press shop,GFA,-,GX 3 LC,Angle open & die mark,850,Vinoth,Press shop,Scrap,Completed,17-07-2024,madhan,Mukundan,-,-
+369,16-07-2024,C,FPL,GFA,-,SP 1300 X 400 LG,Damage,1,Niyas,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+370,16-07-2024,C,FPL,Zomato,-,Stability Beam LG,Oil Mark,200,Niyas,FPL,Rework,Completed,19-07-2024,nannan,Viki,viki,-
+371,18-07-2024,A,FPL,Amazon,-,Base Plate GX TY,Rust,3,Dhamodharan,FPL,Rework,Completed,22-07-2024,nannan,Viki,viki,-
+372,17-07-2024,A,12m,General,-,Ghem+ 100 X 2215 OR,Drain Hole,3,Karthik,12m,Scrap,Completed,17-07-2024,dawood,Arun,Arun,-
+373,17-07-2024,A,12m,General,-,GXL UR 110 X 5800 SB,Rust,261,Karthik,12m,Rework,Completed,18-07-2024,Ajith,Arun,Viki,-
+374,18-07-2024,A,12m,Advanced,-,GXL UR 110 X 7100 SB,Rust,1,Karthik,12m,Rework,Completed,18-07-2024,dawood,Viki,viki,-
+375,17-07-2024,A,GXL UR,general,-,GXL110X11500,Rust,48,Mukundan,HO aisle,Rework,Completed,18-07-2024,online in 12M ,Mukundan,Naresh ,RM issue
+376,17-07-2024,B,GXL UR,General,-,GXL110X11500,Mill scale,336,Mukundan,GXL UR,Rework,Completed,17-07-2024,Dawooth ,Mukundan,Yogaraj,RM issue
+378,17-07-2024,B,Hem,general,-,Hem+100x2215,Runned low ys coil,119,Rohit,HO aisle,Salvage,Completed,22-07-2024,Simon,Mukundan,ram,Opperator did not checked coil ys
+379,17-07-2024,C,GXL UR,General,-,Gxl110x11500,Mill scale,96,Silamarasan,HO aisle,Rework,Completed,18-07-2024,online in 12M ,Mukundan,Ram,Rm issue
+380,18-07-2024,A,Hem+,GFA,-,hem+125X2700,Rust,200,Veramuthu,HO aisle,Rework,Completed,20-07-2024,Krishnakumar,Mukundan,Naresh,RM issue
+381,18-07-2024,B,WP,-,-,wp APO 200x1996x1.4,Extra holes punched,930,Mukundan,HO aisle,Deviation,Waiting,-,-,-,Naresh ,-
+382,18-07-2024,B,12m,General,-,GXL UR 110 X 11500 SB,Rust,3,Gowrisankar,12m,Rework,Completed,19-07-2024,ajith,Viki,viki,-
+383,19-07-2024,A,12m,Nab,-,Ghem+ 115 X 2300 OR,Drain Hole NA,1,Karthik,12m,Rework,Completed,23-07-2024,-,Mukundan,-,-
+384,19-07-2024,A,12m,NAV Barat,-,Ghem+ 115 X 2300 OR,Damage,1,Karthik,12m,Scrap,Completed,20-07-2024,Sriram,Arun,Dawooth,-
+385,19-07-2024,A,12m,MGN,-,Subcon GTH80x1340 OR,Weld Hole,1,Karthik,12m,Scrap,Completed,01-08-2024,dawood,Viki,viki,-
+386,18-07-2024,C,FPL,MTA,-,Splice SB,Oil Mark,50,Niyas,FPL,Rework,Completed,19-07-2024,muthu,Arun,arun,-
+387,19-07-2024,A,FPL,Balkan,-,SP 400 X 1300 LG,Rust,20,Dhamodharan,FPL,Rework,Completed,19-07-2024,ajith,Arun,arun,-
+388,19-07-2024,A,9m,GFA,-,Ghem+ 100 X 2300 OR,Oil Mark,2,N.Murugan,9m,Rework,Completed,26-07-2024,Vasu,Viki,Ajith,-
+389,18-07-2024,B,9m,Itoki,-,M/C LG,Rust,1,R.Usman,9m,Rework,Completed,20-07-2024,nannan,Viki,viki,-
+390,20-07-2024,A,FPL,Balkan,-,SP 400 X 1300 LG,Rust,10,Dhamodharan,FPL,Rework,Completed,20-07-2024,perumal,Arun,Arun,-
+391,19-07-2024,C,9m,Ashok,-,GBH T/B LG,Oil Mark,8,M.Balaji,9m,Rework,Completed,20-07-2024,nannan,Viki,viki,-
+392,19-07-2024,C,9m,Ashok,-,GBH T/B LG,Rust,4,M.Balaji,9m,Rework,Completed,20-07-2024,nannan,Viki,viki,-
+393,19-07-2024,B,12m,Magic,-,GXL UR 110 X 12000 SB,Rust,4,Gowrisankar,12m,Rework,Completed,24-07-2024,Gowtham,Arun,Dawooth,-
+394,20-07-2024,A,12m,Jamwal,-,Ghem+ 100 X 2400 OR,Low DFT,47,Karanraj,12m,Rework,Completed,25-07-2024,Vasu,Viki,Saravanan,-
+395,20-07-2024,B,12m,GFA,-,GSB 60 L2500 OR,Weld Holes,1,Surya,12m,Rework,Completed,25-07-2024,-,Mukundan,-,-
+396,20-07-2024,C,12m,GFA,-,Hem + 110 L2700 OR,Damage,1,B.Raja,12m,Scrap,Completed,24-07-2024,Sriram,Arun,Dawooth,-
+397,22-07-2024,A,12m,GFA,-,GSB 60 L2500 OR,Rust,4,Viki,12m,Rework,Completed,26-07-2024,Vasu,Viki,Saravanan,-
+398,22-07-2024,A,12m,GFA,-,GSB 60 L2500 OR,Dent,1,Viki,12m,Scrap,Completed,24-07-2024,Sriram,Arun,Dawooth,-
+399,22-07-2024,A,12m,GFA,-,Hem + 110 L2700 OR,Oil Mark,15,Viki,12m,Rework,Completed,26-07-2024,Gowtham,Arun,Dawooth,-
+400,22-07-2024,B,12m,KANNAI,-,GSB 90 L2600 OR,Weld holes,1,B.Raja,12m,Rework,Completed,25-07-2024,-,Mukundan,-,-
+401,22-07-2024,B,12m,GFA,-,Hem + 110 L2300 OR,Rust,2,B.Raja,12m,Rework,Completed,26-07-2024,vasu,Viki,Ajith,-
+402,22-07-2024,B,12m,VMX,-,GSB 90 L1800 OR,Rust,30,B.Raja,12m,Rework,Completed,26-07-2024,Vasu,Viki,Ajith,-
+403,22-07-2024,B,12m,GFA,-,Hem + 100 L2300 OR,Rust,3,B.Raja,12m,Rework,Completed,26-07-2024,vasu,Viki,Ajith,-
+404,22-07-2024,B,12m,GFA,-,Hem + 100 L2300 OR,Weld Holes,4,B.Raja,12m,Rework,Completed,22-07-2024,Rajini,Arun,Ajith,Moved to welding line
+405,22-07-2024,B,12m,GFA,-,Hem + 100 L2300 OR,Miss weld,5,B.Raja,12m,Rework,Completed,22-07-2024,Rajini,Arun,Ajith,Moved to welding line
+406,22-07-2024,C,12m,RADIX,-,Hem + 110 L2800 OR,Rust,5,B.Raja,12m,Rework,Completed,26-07-2024,Vasu,Viki,Ajith,-
+407,20-07-2024,B,9m,MARUTI,-,Row Guard Assy L1000 YE,Miss Weld,2,R.Usman,9m,Rework,Completed,20-07-2024,Mani,Viki,Nannan,-
+408,20-07-2024,B,9m,AFAQ,-,Joist Bm 60 L4795 LG,Damage,2,R.Usman,9m,Scrap,Completed,31-08-2024,Dawooth,Viki,Dawooth,-
+409,20-07-2024,C,9m,AFAQ,-,Joist Bm 60 L4793 LG,Damage,2,M.Balaji,9m,Scrap,Completed,31-08-2024,Dawooth,Viki,Dawooth,-
+410,19-07-2024,A,FPL,Magic,-,Bracing Cleat Gx90 LG,Spray Mark,72,Dhamodharan,FPL,Rework,Completed,22-07-2024,nannan,Viki,viki,Salvaged from LG to SB
+411,20-07-2024,A,FPL,BALKAN,-,S/P W400 L1300 LG,Rust,10,Dhamodharan,FPL,Rework,Completed,26-07-2024,Balaji,Viki,Muthu,-
+412,22-07-2024,A,FPL,BALKAN,-,S/P W400 L1300 LG,Rust,11,Viki,FPL,Rework,Completed,25-07-2024,Mani,Arun,Vijay,-
+413,22-07-2024,B,FPL,AFAQ,-,Splice Front Gx90 YE,Oil Mark,1,Niyas,FPL,Rework,Completed,25-07-2024,Vasu,Arun,Muthu,-
+414,22-07-2024,B,FPL,AFAQ,-,S/P W605 L1300 LG,Damage,1,Niyas,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+415,22-07-2024,B,FPL,GFA,-,MF 6BPANL D371 W905 0.8 LG,sticker mark,1,Niyas,FPL,Rework,Completed,22-07-2024,nannan,Arun,arun,-
+416,18-07-2024,C,GXL UR,-,-,GXL90x9600,Rust,192,Silamarasan,HO aisle,Rework,Completed,19-07-2024,Dawooth,Mukundan,Krishnakumar,RM
+417,19-07-2024,B,SP,Dalkan,-,sp400x1300,Rust,80,Mukundan,HO aisle,Rework,Completed,25-07-2024,-,Rohit,krishnakumar,RM
+418,19-07-2024,B,GXL UR,-,-,GXL90x10700,Rust,120,Mukundan,HO aisle,Rework,Completed,23-07-2024,Dawooth,Mukundan,-,RM
+419,20-07-2024,A,Old UR,Armstrong,-,Gx70x4100,Twist,110,Mukundan,HO aisle,Deviation,Completed,24-07-2024,Shiju,Vishnu,-,-
+420,20-07-2024,C,Old UR,Armstrong,-,Gx70x4100,Twist,140,Mukundan,Old UR,Deviation,Completed,24-07-2024,Shiju,Vishnu,-,-
+421,26-07-2024,B,Old UR,Armstrong,-,Gx70x4100,Twist,70,Rajaraman,HO aisle,Deviation,Completed,24-07-2024,Shiju,Vishnu,-,-
+422,21-07-2024,B,Press shop,Amazon jettah,-,GX 3 LC APO,Side Slot offset,300,Mukundan,Press shop,Deviation,Completed,22-07-2024,Prabha,Vishnu,-,Tool Radius variation
+423,22-07-2024,B,Hem,GFA,-,Hem+110x2700,Length variation,160,Silamarasan,HO aisle,Salvage,Completed,23-07-2024,Simon,Rohit,-,-
+424,22-07-2024,C,Hem,GFA,-,Hem+110x2700,Length variation,340,Rajaraman,HO aisle,Salvage,Completed,23-07-2024,Simon,Mukundan,-,-
+425,23-07-2024,C,GXL UR,-,-,GXL120x9550,Rust,30,Rajaraman,GXL UR,Rework,Completed,23-07-2024,Dawooth,Mukundan,-,-
+426,23-07-2024,C,Hem,GFA,-,Hem+110x2700,Length variation,99,Rajaraman,Hem,Rework,Completed,24-07-2024,Simon,Mukundan,-,-
+427,23-07-2024,C,Box,-,-,GB100x2300,Crimp open and square out,119,Rohit,Box,Rework,Completed,23-07-2024,Yograj,Rohit,-,-
+428,23-07-2024,C,GXL UR,Armstrong,-,GXL120x9550,Cutting taper,192,Rajaraman,HO aisle,Deviation,Completed,24-07-2024,Shiju,Vishnu,-,-
+429,24-07-2024,A,Hem,GFA,-,Hem+110x2700,Length variation,312,Mukundan,HO aisle,Salvage,Completed,26-07-2024,Simon,Mukundan,-,-
+430,25-07-2024,C,Old CF,-,-,LS LC,Wrong thk,300,Mani,Press shop,Deviation,Completed,-,Jithesh,Mukundan,-,QA wrong approval silamarasan
+432,23-07-2024,C,12m,Iron,-,Ghem+ 100 X 2750 SW,Damage,2,Karthik,12m,Scrap,Completed,30-07-2024,dawood,Viki,viki,-
+433,24-07-2024,A,12m,GFA,-,GSB 30 X 2500 OR,Damage,1,Gowrisankar,12m,Scrap,Completed,30-07-2024,dawood,Viki,viki,-
+434,24-07-2024,B,12m,GFA,-,GSB 60 X 2500 OR,Welding Holes,2,B.Raja,12m,Scrap,Completed,30-07-2024,dawood,Viki,viki,-
+435,24-07-2024,B,12m,GFA,-,GSB 60 X 2500 OR,Damage,1,B.Raja,12m,Scrap,Completed,29-07-2024,dawood,Viki,viki,-
+436,25-07-2024,B,12m,DHL,-,Ghem+ 100 X 2400 RR,Sticker Mark,2,B.Raja,12m,Rework,Completed,14-08-2024,ajith,Viki,viki,-
+437,25-07-2024,C,12m,Afaq,-,Tube 60 X 1291 LG,Weld Hole,2,Karthik,12m,Scrap,Completed,29-07-2024,ajith,Arun,arun,-
+438,26-07-2024,A,12m,GFA,-,GSB 85 X 2700 OR,Damage,1,Gowrisankar,12m,Scrap,Completed,01-08-2024,dawood,Viki,viki,-
+439,26-07-2024,A,12m,DHL,-,Ghem+ 100 X 2400 RR,Sticker Mark,1,Gowrisankar,12m,Rework,Completed,01-08-2024,dawood,Viki,viki,-
+440,26-07-2024,B,12m,Bhavya,-,Ghem+ 115 X 3400 OR,Burr,1,B.Raja,12m,Rework,Completed,27-07-2024,-,-,-,-
+441,27-07-2024,A,12m,Mascot,-,GBH 110 X 2400 OR,Sticker Mark,1,Gowrisankar,12m,Rework,Completed,01-08-2024,dawood,Viki,viki,-
+442,27-07-2024,B,12m,GFA,-,MF Angle 2438 LG,Color Shade ,104,B.Raja,12m,Rework,Completed,30-07-2024,saravanan,Viki,viki,-
+443,27-07-2024,B,12m,Afaq,-,WW beam Tube LG,Welding Hole,1,B.Raja,12m,Rework,Completed,27-07-2024,-,-,-,-
+444,27-07-2024,C,12m,GFA,-,GBH 110 X 2700 OR,Damage,2,Karthik,12m,Scrap,Completed,01-08-2024,dawood,Viki,viki,-
+445,30-07-2024,A,12m,GFA,-,GBH GSB OR,Oil Mark,24,B.Raja,12m,Rework,Completed,01-08-2024,Dawood,Viki,viki,-
+446,23-07-2024,A,FPL,Afaq,-,SP 600 X 1300 LG,Damage,15,Karanraj,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+447,23-07-2024,C,FPL,Amazon,-,SP 600 X 1300 LG,Damage,6,Dhamodharan,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+448,24-07-2024,A,12m,Afaq,-,SP 600 X 1300 LG,Damage,12,Karanraj,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+449,29-07-2024,B,FPL,Afaq,-,Splice Rear LG,Oil Mark,5,Karanraj,FPL,Rework,Completed,03-08-2024,muthu,Viki,viki,-
+450,29-07-2024,C,FPL,Afaq,-,SP 600 X 1300 LG,Damage,2,Karanraj,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+451,30-07-2024,A,FPL,Afaq,-,Splice Rear LG,Sticker Mark,1,Niyas,FPL,Rework,Completed,30-07-2024,kumar,Viki,viki,-
+452,23-07-2024,A,9m,Afaq,-,JST 60 X 5505 LG,Damage,3,R.Usman,9m,Scrap,Completed,01-08-2024,nannan,Viki,viki,-
+453,24-07-2024,A,9m,Magic,-,JST 60 X 4800 LG,Damage,2,R.Usman,9m,Scrap,Completed,01-08-2024,nannan,Viki,viki,-
+454,24-07-2024,B,9m,Magic,-,JST 60 X 4820 LG,Damage,2,M.Balaji,9m,Scrap,Completed,14-08-2024,nannan,Viki,viki,-
+455,26-07-2024,B,9m,Itoki,-,Mobile Cladding CG,Damage,1,M.Balaji,9m,Scrap,Completed,30-07-2024,kumar,Viki,viki,-
+456,26-07-2024,B,9m,Itoki,-,Mobile Cladding LG,Damage,1,M.Balaji,9m,Scrap,Completed,16-08-2024,muthu,Viki,viki,-
+457,27-07-2024,A,9m,Bhavya,-,Ghem+ 115 X 3400 OR,Welding Hole,1,R.Usman,9m,Scrap,Completed,29-07-2024,-,-,-,-
+458,30-07-2024,A,9m,Zomato,-,Stability Beam LG,Weld Hole,1,M.Balaji,9m,Scrap,Completed,02-08-2024,nannan,Viki,viki,-
+459,30-07-2024,A,9m,Zomato,-,Stability beam LG,Welding wire,1,M.Balaji,9m,Scrap,Completed,02-08-2024,muthu,Viki,viki,-
+460,29-07-2024,A,RF Pnl,DHL,-,GSB 300x1200,Hole offset,320,Rajaraman,Quarentine area,Rework,Waiting,-,-,-,Naresh kumar,Coil entry
+461,29-07-2024,A,WP,Ashok,-,WP 200x3746,Oil residue,272,Ambedkar,HO aisle,Rework,Completed,29-07-2024,-,-,Naresh kumar,HR coil
+462,30-07-2024,A,-,GFA,-,GSB 60x20x2300,Twist,233,Rohit,MLF,Rework,Completed,30-07-2024,Simon,Rohit,-,new line
+463,29-07-2024,A,Press shop,AFAQ,-,GX 3 LC APO and 4H1L,Bending taper and wrong bending,100,Ambedkar,Itoki,Rework,Completed,31-07-2024,ram,Rohit,Ram,-
+464,30-07-2024,B,FPL,GFA,-,SP 400 X 1300 LG,Damage,1,Dhamodharan,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+1,01-04-2024,A,hem+,Swift,-,hem+100x2300,line mark,95,Mani,hem+,Rework,Completed,01-04-2024,shankar,Mukundan,-,-
+465,01-08-2024,A,FPL,Afaq,-,SP 1300 X 600 LG,Damage,2,Niyas,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+466,31-07-2024,A,9m,Itoki,-,Mobile Cladding LG,Damage,2,M.Balaji,9m,Scrap,Completed,02-08-2024,muthu,Viki,viki,-
+467,01-08-2024,A,9m,DHL,-,APO Row Guard RR,Carbon Dust,93,M.Balaji,9m,Rework,Completed,03-08-2024,muthu,Viki,viki,-
+468,31-07-2024,A,12m,Astral,-,GXL Uright 90 X 5000 SB,Damage,1,B.Raja,12m,Scrap,Completed,03-08-2024,dawood,Viki,viki,-
+469,31-07-2024,B,12m,Mascot,-,GXL Upright 90 X 3800 SB,Damage,1,Karthik,12m,Scrap,Completed,03-08-2024,dawood,Viki,viki,-
+470,31-07-2024,B,12m,GFA,-,GSB 60 X 2500 OR,Damage,3,Karthik,12m,Scrap,Completed,03-08-2024,dawood,Viki,viki,-
+471,29-07-2024,B,WP,Ashok,-,wp20x3746,Length variation,12,Mukundan,HO aisle,Scrap,Completed,06-08-2024,naresh,Mukundan,naresh,wrong setting
+472,31-07-2024,B,WP,Instakart,-,wp200x3396,oil residue,166,Mukundan,HO aisle,Rework,Completed,05-08-2024,dawood,Mukundan,dawood,RM
+473,31-07-2024,C,WP,Instakart,-,wp200x3396,bow camber and cutting damage,27,Rajaraman,HO aisle,Scrap,Completed,-,-,-,-,-
+474,31-07-2024,C,Box,Iron,-,GB125x4000,bow twist,24,Rajaraman,Box,Rework,Completed,31-07-2024,-,-,-,-
+475,31-07-2024,A,WP,Kaizen,-,wp200x1196,white rust,3,Rajaraman,WP,Scrap,Completed,31-07-2024,-,-,-,-
+476,31-07-2024,C,Old UR,Aira,-,GXL90x3300,bow camber hole offset,13,Rajaraman,GXL UR,Scrap,Completed,31-07-2024,-,-,-,-
+477,01-08-2024,C,Hem,Magic,-,Hem+100x3300,bow,17,Rajaraman,Hem,Rework,Completed,01-08-2024,xavier,Mukundan,krishna,setting job
+478,01-08-2024,C,Hem,GFA,-,Hem+100x2300,line mark,119,Rajaraman,Hem,Rework,Completed,04-08-2024,vijay babu,Rohit,vijay babu,cutter chip off
+479,02-08-2024,A,9m,Itoki,-,Mobile Cladding CG,Rust,2,M.Balaji,9m,Rework,Completed,03-08-2024,muthu,Viki,viki,-
+480,02-08-2024,A,9m,Zomato,-,GBH N7 beam LG,Rust,1,M.Balaji,9m,Rework,Completed,06-08-2024,Anand,Arun,Vijay,-
+2,01-04-2024,B,hem+,Swift,-,hem+110x2500,line mark,200,Mani,hem+,Rework,Completed,01-04-2024,simon,Rohit,-,-
+3,01-04-2024,B,hem+,Swift,-,hem+110x2700,line mark,450,Anand,AW N,Rework,Completed,02-04-2024,sharanraj,Rohit,-,-
+4,02-04-2024,C,hem+,Amazon,-,sp 600x1100,white rust,50,Anand,sp,Scrap,Completed,01-04-2024,-,-,-,-
+5,02-04-2024,A,hem+,Swift,-,hem+110 x2700,line mark,100,Mukundan,AW N,Rework,Completed,02-04-2024,sankar,Mukundan,-,-
+6,02-04-2024,B,GXL UR,DHL,-,Gx90 x1.5x1800,wrong thk,180,Mukundan,GXL UR,Deviation,Completed,02-04-2024,-,Rohit,-,-
+7,03-04-2024,A,RF Pnl,Laxfo,-,Gsb 150x1200,hole offset,100,Mukundan,RF Pnl,Scrap,Completed,11-06-2024,Naresh,Mukundan,-,-
+8,03-04-2024,A,RF Pnl,laxfo,-,Gsb 150x0.7x1200,hole offset,490,Mukundan,HO aisle,Deviation,Completed,03-05-2024,-,Sadish,-,-
+9,03-04-2024,B,GXL UR,MSE,-,GXL 90x2x6300,mill scale,10,Rajaraman,GXL UR,Rework,Completed,04-04-2024,vijaybabu,Mukundan,-,-
+10,05-04-2024,C,RF Pnl,mactech,-,gsb 150x1000x0.7,Hole offset,100,Rajaraman,RF Pnl,Scrap,Completed,11-06-2024,Naresh,Mukundan,-,-
+11,08-05-2024,B,sp,wani,-,sp 600x1000,white rust,37,Rohit,sp,Scrap,Completed,08-04-2024,-,-,-,-
+12,08-04-2024,B,hem+,Swift,-,hem+85x1.5x2700,line mark,312,Mani,AW N,Rework,Completed,09-05-2024,simon,Mukundan,-,-
+13,08-04-2024,B,sp,-,-,sp 600x1200,white rust,122,Rajaraman,sp,Rework,Completed,09-04-2024,Nareshkumar,Rohit,-,-
+14,11-04-2024,B,hem+,Swift,-,hem+100x1.5x2700,edge damage,98,Mukundan,AW N,Rework,Completed,11-05-2024,sankar,Mukundan,-,-
+15,12-04-2024,C,AW O,Swift,-,hem+ 100x2800,depth variation,100,Anand,AW N,Scrap,Completed,12-04-2024,-,-,-,-
+16,12-04-2024,C,AW O,Swift,-,hem+100x2800x1.5,beam twist,90,Rohit,AW N,Rework,Completed,13-04-2024,simon,Rohit,-,-
+17,15-04-2024,A,GXL UR,Maz,-,Gxl90x10800,line mark,32,Sathyamurthy,GXL UR,Rework,Completed,16-05-2024,vijaybabu,Rohit,-,-
+18,15-04-2024,B,RW,Swift,-,hem+110x2700,fusion fail,75,Rajaraman,RW,Rework,Completed,16-05-2024,Sankar,Rohit,-,-
+19,20-04-2024,A,GXL UR,Instakart,-,gxl120 x950,Hole offset & slot offset,57,Rajaraman,GXL UR,Scrap,Completed,23-04-2024,-,-,-,-
+20,16-04-2024,C,Hem,Swift,-,hem+100x2300,Hem open,213,Rajaraman,Hem,Divertion,Completed,19-05-2024,Naresh Kumar,Mukundan,-,-
+21,18-04-2024,C,AW N,Swift,-,hem+100x2750,load not taken,155,Anand,AW N,Deviation,Completed,20-05-2024,-,-,-,-
+22,18-04-2024,C,AW O,Swift,-,hem+100x2750,load not taken,345,Anand,AW O,Deviation,Completed,20-04-2024,-,-,-,-
+23,20-04-2024,A,hem+,insta,-,hem+115x3400,bow,45,Silamarasan,hem+,Scrap,Completed,22-04-2024,-,-,-,-
+24,20-04-2024,B,hem+,Swift,-,hem+ 100x1.2x2750,load not taken,190,Rajaraman,AW N,Deviation,Completed,22-04-2024,-,-,-,-
+25,21-04-2024,A,WP,globe tech,-,walkway 200x3296,length variation,20,Mukundan,WP,Scrap,Completed,21-04-2024,-,-,-,-
+26,22-04-2024,B,GXL UR,vardhaan,-,Gxl 90x3400,produced in old upright for splice order,182,Sathyamurthy,Old UR,Rework,Completed,22-04-2024,Krishna Kumar,Mukundan,-,-
+481,02-08-2024,B,9m,Itoki,-,Mobile Cladding LG,Damage,1,Karanraj,9m,Scrap,Completed,31-08-2024,Dawooth,Viki,Dawooth,-
+482,02-08-2024,C,9m,Mahindra,-,Ghem+ 110 X 3700 SW,Damage,1,R.Usman,9m,Scrap,Completed,16-08-2024,muthu,Viki,viki,-
+483,03-08-2024,A,9m,Armstrong,-,Ghem+ 135 X 3700 SW,Damage,1,M.Balaji,9m,Scrap,Completed,14-08-2024,nannan,Viki,viki,-
+484,03-08-2024,A,9m,Iron,-,Railing Pipe SW,Oil Mark,23,M.Balaji,9m,Rework,Completed,03-08-2024,kumar,Viki,viki,-
+485,02-08-2024,A,FPL,Afaq,-,SP 1300 X 600 LG,Damage,1,Niyas,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+486,02-08-2024,C,FPL,Armstrong,-,GX BP 120 SW,Fitment issue,11,Karanraj,FPL,Rework,Completed,03-08-2024,Subcon Team,Viki,-,Square Out - Handling
+487,03-08-2024,A,FPL,Amazon,-,SP 1300 X 600 LG,Damage,10,Niyas,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+488,01-08-2024,C,12m,Swift,-,Ghem+ 100 X 2300 OR,Oil Mark,5,Gowrisankar,12m,Rework,Completed,03-08-2024,dawood,Viki,viki,-
+489,02-08-2024,A,12m,Orient,-,GBH 135 X 2800 OR,Rust,5,B.Raja,12m,Rework,Completed,03-08-2024,dawood,Viki,viki,-
+490,02-08-2024,B,12m,GFA,-,GBH 110 X 2700 OR,Oil Mark,58,Karthik,12m,Rework,Completed,03-08-2024,dawood,Viki,viki,-
+491,02-08-2024,B,12m,GFA,-,Ghem+ 110 X 2500 OR,Rust,19,Karthik,12m,Rework,Completed,03-08-2024,dawood,Viki,viki,-
+492,03-08-2024,A,12m,GFA,-,GSB 60 X 2500 OR,Welding Holes,2,B.Raja,12m,Scrap,Completed,07-08-2024,Sree ram,Arun,Perumal,-
+493,03-08-2024,A,12m,Magic,-,GBH 110 X 3300 OR,Welding Hole,1,B.Raja,12m,Scrap,Completed,07-08-2024,Sree Ram,Arun,Perumal,-
+494,03-08-2024,A,12m,Magic,-,Gbh 110 X 3300 OR,Sticker Mark,1,B.Raja,12m,Rework,Completed,14-08-2024,ajith,Viki,viki,-
+495,02-08-2024,A,Brac,Amazon,-,GX bracing,Logo missing,300,Silamarasan,HO aisle,Salvage,Completed,07-08-2024,sridhar,Mukundan,Naresh kumar,Tool logo missed
+496,03-08-2024,B,Hem+,Radix,-,Hem+85x2500,Length variation,459,Mukundan,HO aisle,Salvage,Completed,03-08-2024,-,-,Yograj,-
+497,03-08-2024,B,12m,Schenker,-,GXL Upright 110 L12000 OB,Rust,3,Karthik,12m,Rework,Completed,14-08-2024,ajith,Viki,viki,-
+498,03-08-2024,B,12m,Schenker,-,GXL Upright 110 L12000 OB,Damage,1,Karthik,12m,Scrap,Completed,16-08-2024,ajith,Viki,viki,-
+499,03-08-2024,C,12m,Schenker,-,GXL Upright 110 L12000 OB,Damage,3,Surya,12m,Scrap,Completed,14-08-2024,ajith,Viki,viki,-
+500,05-08-2024,A,12m,Globe,-,GXL Upright 90 L6300 SB,Rust,5,Karthik,12m,Rework,Completed,22-08-2024,ajith,Sridhar,viki,-
+501,05-08-2024,A,12m,Magic,-,GXL Upright 110 L8000 SB,Rust,1,Karthik,12m,Rework,Completed,22-08-2024,ajith,Sridhar,viki,-
+502,05-08-2024,A,12m,Mahindra,-,GXL Upright 110 L10500 SB,Rust,4,Karthik,12m,Rework,Completed,22-08-2024,ajith,Sridhar,viki,-
+503,03-08-2024,B,9m,AFAQ,-,JB Tube 60 L3836 LG,Oil Mark,41,Karanraj,9m,Rework,Completed,07-08-2024,Anand,Arun,Vijay,-
+504,03-08-2024,B,9m,AFAQ,-,JB Tube 60 L3836 LG,Damage,1,Karanraj,9m,Scrap,Completed,31-08-2024,Dawooth,Viki,Dawooth,-
+505,06-08-2024,C,Hem,Amazon ,GOE002639,Hem+ 115*4460,twist 6mm,265,Silamarasan,RF Pnl,Rework,Completed,09-08-2024,-,Rohit,Ram,Long length change over
+506,05-08-2024,C,FPL,MTA,-,Row Connecter L250 SB,Sticker Mark,2,Niyas,FPL,Rework,Completed,16-08-2024,muthu,Viki,viki,-
+507,05-08-2024,C,FPL,Commercial,-,HD GSB 200 L1000 SB,Stciker Mark,1,Niyas,FPL,Rework,Completed,16-08-2024,muthu,Viki,viki,-
+508,06-08-2024,A,FPL,MARUTI,-,4B PNL HOLE 150 L1396 OB,double punch,1,Dhamodharan,FPL,Scrap,Completed,16-08-2024,muthu,Viki,viki,-
+509,05-08-2024,C,12m,Globetech,-,GB 135 L3400 RR,Lump Weld,1,B.Raja,12m,Rework,Completed,08-08-2024,Sree ram,Arun,Perumal,-
+510,06-08-2024,A,12m,Schenker,-,Upright GXL 110 L12000 OB,Damage,4,Karthik,12m,Scrap,Completed,07-08-2024,Sreeram,Viki,Perumal,-
+511,06-08-2024,B,12m,Aura,-,GXL Upright 90 L11500 SB,Damage,1,Surya,12m,Scrap,Completed,22-08-2024,ajith,Sridhar,viki,-
+512,06-08-2024,B,12m,GFA,-,GSB 60 L2500 OR,Damage,1,B.Raja,12m,Scrap,Completed,08-08-2024,Sree ram,Arun,Perumal,-
+513,06-08-2024,B,12m,GFA,-,Hem 110 L2700 OR,Rust,10,Surya,12m,Rework,Completed,22-08-2024,ajith,Sridhar,viki,-
+514,06-08-2024,B,12m,GFA,-,GSB 60 L2300 OR,Damage,1,Surya,12m,Scrap,Completed,22-08-2024,ajith,Sridhar,viki,-
+515,06-08-2024,B,12m,MARUTI,-,Hem + AW 85 L2900 OR,sticker Mark,1,Surya,12m,Rework,Completed,23-08-2024,Vasu,Arun,Saravanan,-
+516,06-08-2024,B,12m,IRC,-,GSB 90 L2800 OR,Damage,2,Surya,12m,Scrap,Completed,31-08-2024,dawooth,Viki,viki,-
+517,07-08-2024,A,12m,MSE,-,Upright GXL 90 L7500 SB,Double Punch,1,Karthik,12m,Scrap,Completed,08-08-2024,Shree ram,Arun,Perumal,-
+518,07-08-2024,C,12m,DHL,-,UPRIGHT GXL 90 L9900 BY,Damage,1,B.Raja,12m,Scrap,Completed,08-08-2024,Sree ram,Arun,Perumal,-
+519,08-08-2024,A,12m,DHL,-,UPRIGHT GXL 90 L9900 BY,Damage,1,Karthik,12m,Scrap,Completed,08-08-2024,Sree ram,Arun,Perumal,-
+520,08-08-2024,A,12m,MARUTI,-,Hem + AW 85 L2900 OR,Damage,2,Karanraj,12m,Scrap,Completed,22-08-2024,ajith,Sridhar,viki,-
+521,07-08-2024,C,9m,Zomato,-,Hem + N3 T/B 85 L1188 LG,Dent,2,M.Balaji,9m,Scrap,Waiting,-,-,-,-,-
+522,08-08-2024,B,9m,Ashok,-,TW Panel 200 L3696 SB,Damage,1,R.Usman,9m,Scrap,Waiting,-,-,-,-,-
+523,07-08-2024,C,FPL,MTA,-,Stiffener L450 SB,Rust,32,Niyas,FPL,Rework,Completed,16-08-2024,muthu,Viki,viki,-
+524,08-08-2024,B,FPL,AFAQ,-,Base Plate GX90 LG,Chnl Square Out,5,Abubakar,FPL,Rework,Completed,16-08-2024,muthu,Viki,viki,-
+525,8-08-2024,C,FPL,AFAQ,-,Base Plate 90 108 TY,Bend,1,Niyas,FPL,Rework,Completed,16-08-2024,muthu,Viki,viki,-
+526,8-08-2024,C,FPL,AFAQ,-,Shelf Panel 600 L1300 LG,Dent & Damage,11,Niyas,FPL,Scrap,Completed,02-09-2024,Muthu,Viki,Muthu,-
+527,8-08-2024,C,9m,AFAQ,-,WW Bm 60 40 L1291 LG,Dent,1,M.Balaji,9m,Scrap,Waiting,-,-,-,-,-
+528,9-08-2024,A,9m,AFAQ,-,Hem + Joist Bm 110 L4460 LG,Burr Issues,10,N.Murugan,9m,Rework,Completed,31-08-2024,Dawooth,Viki,Dawooth,-
+529,08-08-2024,C,12m,PROMPT,-,Upright GXL 90 L6600 SB,Damage,1,B.Raja,12m,Scrap,Completed,22-08-2024,ajith,Sridhar,viki,-
+530,10-08-2024,A,12m,Kaizen,-,GSB 80 L2700 OR,Damage,3,Karanraj,12m,Scrap,Completed,22-08-2024,ajith,Sridhar,viki,-
+531,10-08-2024,A,12m,General,-,Hem + 100 L2215,Weld Hole,1,Karanraj,12m,Rework,Completed,22-08-2024,ajith,Sridhar,viki,-
+532,10-08-2024,A,12m,AFAQ,-,Chnl 120 L1990 LG,Rust,1,Gowrisankar,12m,Rework,Completed,22-08-2024,ajith,Sridhar,viki,-
+533,09-08-2024,C,FPL,AFAQ,-,Base Plate 120 112 TY,Bend,1,Niyas,FPL,Rework,Completed,16-08-2024,muthu,Viki,viki,-
+534,10-08-2024,A,FPL,AFAQ,-,Shelf Panel  500 L1300 LG,Damage,2,Dhamodharan,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+535,10-08-2024,B,9m,AFAQ,-,Hem + JB 110 L4460 LG,Damage,1,R.Usman,9m,Scrap,Completed,14-08-2024,nannan,Viki,viki,-
+536,09-08-2024,A,Hem,MSE,-,Hem+110x2700,Depth variation,100,Rajaraman,AW N,Rework,Completed,10-08-2024,simon ,Mukundan,simon,-
+537,12-08-2024,A,GXL UR,Armstrong,-,GXL120x2x9500,cutter mark,40,Sathyamurthy,HO aisle,Rework,Completed,13-08-2024,yogaraj,Rohit,vijay babu,cutter wron out
+538,12-08-2024,A,GXL UR,Amazon,-,GXLB90x1.6x7000,cutting burr,13,Sathyamurthy,GXL UR,Rework,Completed,12-08-2024,-,Rohit,-,-
+539,12-08-2024,A,Hem,-,-,Hem+100x2400,Length variation,270,Sathyamurthy,HO aisle,Rework,Completed,13-08-2024,vijay babu,Rohit,vijay babu,-
+540,12-08-2024,B,GXL UR,-,-,GXLB90x7000,Line mark,75,Mukundan,HO aisle,Rework,Completed,16-08-2024,naresh kumar,Rohit,yogaraj,cutter chipoff
+541,12-08-2024,A,WP,Maruti,-,WP150x3096,damage,3,Mukundan,HO aisle,Scrap,Completed,-,-,Mukundan,-,-
+542,12-08-2024,C,GXL UR,Kakamani,-,GX90x1.5x4500,Line mark,246,Rajaraman,HO aisle,Rework,Completed,-,-,-,-,-
+543,13-08-2024,B,JDM CF,GFA,-,GX 4 LC,Dent,900,Mukundan,JDM CF,Scrap,Completed,14-08-2024,vijay babu,Rohit,vijay babu,slug got strucked in tool
+544,13-08-2024,B,Hem,GFA,-,Hem+110x2700,Length variation,96,Mukundan,HO aisle,Rework,Completed,13-08-2024,-,-,-,-
+545,16-08-2024,A,JDM CF,GFA,-,GX 5 LC,Cutting offset,1000,Mukundan,HO aisle,Rework,Completed,-,-,-,-,-
+546,14-08-2024,B,Old CF,Amazon,-,GX 3 LC APO,Slot offset,1500,Rajaraman,Press shop,Rework,Waiting,-,-,-,-,-
+547,14-08-2024,B,MLF,Amazon,-,GT 60x1.2x1291 SW,APO lip slot missing,400,Ambedkar,FG,Rework,Completed,16-08-2024,paint shop,Mukundan,-,Mixup
+548,16-08-2024,A,MLF,Amazon,-,GT 60x1.2x1291 SW,QR code missing,60,vishnu,HO aisle,Rework,Completed,16-08-2024,mlf magesh,Vishnu,-,not given QR code sticker
+549,12-08-2024,B,FPL,Dennis,-,Base Plate GX 110 OB,Rust,14,Karanraj,FPL,Rework,Completed,16-08-2024,muthu,Viki,viki,-
+550,14-08-2024,B,FPL,Amazon,-,SP 1300 X 500 LG,Damage,4,Niyas,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+551,16-08-2024,A,FPL,Amazon,-,SP 1300 X 600 LG,Damage,3,Karanraj,FPL,Scrap,Completed,22-08-2024,muthu,Sridhar,viki,-
+552,14-08-2024,A,9m,Refregeration,-,GBH 135 X 3300 OR,Damage,2,R.Usman,9m,Scrap,Completed,14-08-2024,nannan,Viki,viki,-
+553,14-08-2024,B,9m,Agriculture,-,Column SB,Rust,2,M.Balaji,9m,Rework,Completed,16-08-2024,Arasu,Viki,Nannan,-
+554,14-08-2024,C,9m,Refregeration,-,GBH 135 X 3300 OR,Damage,2,N.Murugan,9m,Scrap,Completed,16-08-2024,muthu,Viki,viki,-
+555,16-08-2024,A,9m,Itoki,-,Mobile Cladding LG,Damage,3,R.Usman,9m,Scrap,Completed,31-08-2024,Dawooth,Viki,Dawooth,-
+556,12-08-2024,B,12m,General,-,Ghem+ 100 X 2200 OR,Welding Holes,1,B.Raja,12m,Scrap,Completed,14-08-2024,ajith,Viki,viki,-
+557,12-08-2024,B,12m,Reena,-,GXL UR 90 X 7500 OB,Rust,3,B.Raja,12m,Rework,Completed,22-08-2024,ajith,Sridhar,viki,-
+558,12-08-2024,C,12m,Armstrong,-,GXL UR 120 X 9500 SW,Lump coating,22,Karthik,12m,Rework,Completed,22-08-2024,ajith,Sridhar,viki,-
+559,13-08-2024,A,12m,Aura,-,Ghem+ 100 X 2800 OR,Rust,110,Gowrisankar,12m,Rework,Completed,22-08-2024,ajith,Sridhar,viki,-
+560,13-08-2024,B,12m,GFA,-,Ghem+ 110 X 2700 OR,Rust,10,B.Raja,12m,Rework,Completed,19-08-2024,Gowtham,Viki,Dawooth,-
+561,13-08-2024,C,12m,Aura,-,Mf angle SB,Uncover,204,Gowrisankar,12m,Rework,Completed,16-08-2024,ajith,Viki,viki,-
+562,13-08-2024,C,12m,Amazon,-,Beam tube LG,Oil Mark,48,Gowrisankar,12m,Rework,Completed,28-08-2024,Vasu,Arun,Saravanan,-
+563,19-08-2024,B,GXL UR,Globe tech,-,GXLB 90x1.8x8700,Line Mark,40,Rajaraman,HO aisle,Rework,Completed,-,-,-,Vijay Babu,Profile correction
+565,19-08-2024,A,Old CF,jed4,-,2 hole 1 lance lip con,lance offset,1700,Mukundan,Old CF,Scrap,Waiting,-,-,-,yogaraj,TOOLSETTING
+566,21-08-2024,A,GXL UR,-,-,Gx90x4400,inner profile line mark,45,Rajaraman,HO aisle,Rework,Completed,-,-,-,-,cutter chip off
+567,21-08-2024,B,SP,GFA,-,sp 400x1300,red rust,200,Rajaraman,HO aisle,Rework,Waiting,-,-,-,-,RM
+568,21-08-2024,B,RF Pnl,iron mountain,-,GSB 150x1300x0.7,center hole 3mm offset,200,Rajaraman,HO aisle,Scrap,Waiting,-,-,-,-,wrong setting
+569,21-08-2024,C,JDM CF,Std,-,GX 4 lip,21mm dimension variation 20.1mm,400,Sathyamurthy,JDM CF,Scrap,-,-,-,-,vijay babu,-
+570,21-08-2024,A,Box,Gerado,-,GB 125x2700,Length variation -7mm,80,Silamarasan,MLF,Salvage,Completed,21-08-2024,Naresh,Mukundan,Ram,-
+571,22-08-2024,A,GXL UR,-,-,GXL 110x6700,Mill scale,251,Nitesh,GXL UR,Rework,Completed,-,-,-,Ram,-
+572,22-08-2024,A,Box,-,-,GB 125x2700,Crimping open,30,Nitesh,HO aisle,Rework,Completed,-,-,-,Ram,-
+573,22-08-2024,B,Hem+,Swift,-,Hem+ 125x2700,Width variation 45.5mm,123,Rajaraman,RF Pnl,Scrap,Completed,-,-,-,Vijay Babu,Change over
+574,13-08-2024,C,12m,AFAQ,-,Upright GXL 90 L7000 LG,Length Variation,1,Karanraj,12m,Scrap,Completed,31-08-2024,Dawooth,Viki,viki,-
+575,13-08-2024,C,12m,RPL,-,Upright GXL 90 L4400 SB,Burr,64,Karanraj,12m,Rework,Completed,31-08-2024,Dawooth,Viki,viki,-
+576,13-08-2024,C,12m,AFAQ,-,Tube 40 60 L1291 LG,Rust,25,Karanraj,12m,Rework,Completed,28-08-2024,Vasu,Arun,Saravanan,-
+577,13-08-2024,C,12m,AFAQ,-,Tube 40 60 L1291 LG,Oil Mark,48,Karanraj,12m,Rework,Completed,28-08-2024,Vasu,Arun,Saravanan,-
+578,14-08-2024,B,12m,Nipra,-,GBH 125 L2700 OR,Sticker Mark,1,B.Raja,12m,Rework,Completed,19-08-2024,Vasu,Arun,Saravanan,-
+579,14-08-2024,B,12m,Kaizen,-,GBH 150 L2100 OR,Rust,13,B.Raja,12m,Rework,Completed,19-08-2024,Vasu,Viki,Saravanan,-
+580,14-08-2024,C,12m,AFAQ,-,Upright GXL 90 L12000 LG,Damage,1,Karthik,12m,Scrap,Completed,31-08-2024,Dawooth,Viki,viki,-
+581,16-08-2024,B,12m,AFAQ,-,Upright GXL 90 L12000 LG,Damage,1,Dhamodharan,12m,Scrap,Completed,31-08-2024,Dawooth,Viki,viki,-
+582,16-08-2024,C,12m,AFAQ,-,WW Bm 40 L1291 LG,Oil Mark,117,Karanraj,12m,Rework,Completed,28-08-2024,Gowtham,Viki,Dawooth,-
+583,17-08-2024,A,12m,Dennis,-,GBH 125 L2700 Or,Rust,72,Gowrisankar,12m,Rework,Completed,20-08-2024,Vasu,Viki,Saravanan,-
+584,22-08-2024,A,-,-,-,GB 125x2700,Crimping open,77,Silamarasan,Box,Rework,Completed,23-08-2024,-,Rohit,Vijay babu,-
+585,23-08-2024,A,JDM CF,Std,-,GX 4 lip conn,21mm dimension variation,200,Mukundan,JDM CF,Scrap,Completed,23-08-2024,Bhuvanesh,Mukundan,-,-
+586,24-08-2024,C,SP,Amazon,-,S/P 500x1300,rust,240,Anand,HO aisle,Rework,Waiting,-,-,-,Krishna kumar,Coil rust
+587,24-08-2024,C,Hem,Swift,-,Hem+ 110x2700,Length variation,102,Anand,HO aisle,Scrap,Waiting,-,-,-,Krishna Kumar,-
+588,25-08-2024,A,Brac,Amazon,-,GX BR 418,line mark,300,Vinoth,Brac,Scrap,Waiting,-,-,-,Ram,-
+589,25-08-2024,B,GXL UR,Armstrong,-,GXL 120x5350,Rust,50,Anand,HO aisle,Rework,Waiting,-,-,-,Yogaraj,-
+590,21-08-2024,C,JDM CF,Std,-,GX 4 lip conn,21mm dimension variation,500,Sathyamurthy,JDM CF,Scrap,Waiting,-,-,-,Krishna kumar,-
+591,17-08-2024,B,12m,Refregeration,-,Ghem+ 115 X 3300 OR,Rust,2,Karthik,12m,Rework,Completed,21-08-2024,Gowtham,Arun,Dawooth,-
+592,17-08-2024,B,12m,afaq,-,GXL 90 X 11950 LG,Rust,8,B.Raja,12m,Rework,Completed,31-08-2024,Dawooth,Viki,Dawooth,-
+593,18-08-2024,A,12m,Afaq,-,GSB 100 X 2449 OR,Low DFT,120,Gowrisankar,12m,Rework,Completed,19-08-2024,-,Arun,Saravanan,-
+594,20-08-2024,A,12m,Afaq,-,GXL Upright 90 X 12000 TY,Damage,2,B.Raja,12m,Scrap,Completed,31-08-2024,Dawooth,Viki,Dawooth,-
+595,20-08-2024,B,12m,Afaq,-,WW bm tube 60 X 1291 LG,Oil Mark,185,Karthik,12m,Rework,Completed,28-08-2024,Gowtham,Viki,Dawooth,-
+596,20-08-2024,B,12m,Afaq,-,WW bm tube LG,Rust,34,Karthik,12m,Rework,Completed,02-09-2024,saravanan,Viki,saravanan,-
+597,20-08-2024,C,12m,General,-,Ghem+ 100 X 2300 OR,Rust,48,Gowrisankar,12m,Rework,Completed,26-08-2024,Gowtham,Arun,Dawooth,-
+598,20-08-2024,C,12m,GFA,-,GSB 60 X 2700 OR,Scratch mark,72,Gowrisankar,12m,Rework,Completed,26-08-2024,Gowtham,Arun,Dawooth,-
+599,20-08-2024,C,12m,GFA,-,GSB 60 X 2500 OR,Rust,49,Gowrisankar,12m,Rework,Completed,-,Gowtham,Arun,Dawooth,-
+600,21-08-2024,C,12m,GFA,-,Ghem+ 85 X 2300 OR,Scratch marks,59,Gowrisankar,12m,Rework,Completed,27-08-2024,Gowtham,Viki,Dawooth,-
+601,22-08-2024,A,12m,Dennis,-,Ghem+ 100 X 2400 OR,Rust,15,B.Raja,12m,Rework,Completed,27-08-2024,Vasu,Arun,Saravanan,-
+602,22-08-2024,A,12m,GFA,-,Ghem+ 100 X 2300 OR,Rust,132,B.Raja,12m,Rework,Completed,27-08-2024,Vasu,Arun,saravanan,-
+603,22-08-2024,C,12m,Gfa,-,Ghem+ 85 X 2700 OR,Rust,83,Gowrisankar,12m,Rework,Completed,27-08-2024,Gowtham,Viki,Dawooth,-
+604,23-08-2024,A,12m,Gerardo,-,GBH 125 X 2700 OR,Rust,23,Dhamodharan,12m,Rework,Completed,27-08-2024,Gowtham,Viki,Dawooth,-
+605,23-08-2024,A,12m,GFA,-,Ghem+ 85 X 2700 OR,Rust,61,Dhamodharan,12m,Rework,Completed,26-08-2024,Vasu,Arun,Saravanan,-
+606,23-08-2024,C,12m,General,-,GBH 125 X 2700 OR,Rust,38,Gowrisankar,12m,Rework,Completed,27-08-2024,Vasu,Arun,Saravanan,-
+607,24-08-2024,B,12m,GFA,-,Ghem+ 85 X 2700 OR,Scratch Mark,35,Karthik,12m,Rework,Completed,27-08-2024,Gowtham,Viki,Dawooth,-
+608,26-08-2024,A,12m,GFA,-,Ghem+ 110 X 2700 OR,Rust,30,Karthik,12m,Rework,Completed,02-09-2024,saravanan,Viki,saravanan,-
+609,27-08-2024,A,12m,GFA,-,Ghem+ 110 X 2700 OR,Rust,79,Karthik,12m,Rework,Completed,02-09-2024,saravanan,Viki,saravanan,-
+610,19-08-2024,A,FPL,Afaq,-,Sp 1300 X 600 LG,Damage,4,Niyas,FPL,Scrap,Completed,02-09-2024,Muthu,Viki,Muthu,-
+611,19-08-2024,C,FPL,afaq,-,Sp 1300 X 500 LG,Damage,2,Surya,FPL,Scrap,Completed,02-09-2024,Muthu,Viki,Muthu,-
+612,20-08-2024,A,FPL,Afaq,-,Sp 1300 X 500 LG,Damage,1,Niyas,FPL,Scrap,Completed,02-09-2024,Muthu,Viki,Muthu,-
+613,20-08-2024,A,FPL,Dennis,-,PSB OB,Rust,4,Niyas,FPL,Rework,Completed,31-08-2024,Dawooth,Viki,Dawooth,-
+614,21-08-2024,A,FPL,MTA,-,Row connector SB,Sticker Mark,7,Niyas,FPL,Rework,Completed,31-08-2024,Dawooth,Viki,Dawooth,-
+615,21-08-2024,C,FPL,MTA,-,GX Stiffner SB,Damage,3,Surya,FPL,Scrap,Completed,31-08-2024,Dawooth,Viki,Dawooth,-
+616,22-08-2024,B,FPL,Aura,-,Mesh Frm Clamnp SB,Uncover,29,Dhamodharan,FPL,Rework,Completed,31-08-2024,Dawooth,Viki,Dawooth,-
+617,23-08-2024,A,FPL,Kaizen,-,Sp 1300 X 300 LG,Damage,17,Niyas,FPL,Scrap,Completed,02-09-2024,Muthu,Viki,Muthu,-
+618,24-08-2024,A,FPL,Afaq,-,Sp 1300 X 600 LG,Damage,3,Niyas,FPL,Scrap,Completed,02-09-2024,Muthu,Viki,Muthu,-
+619,24-08-2024,B,FPL,Afaq,-,Sp 1300 X 600 LG,Uncover,47,Dhamodharan,FPL,Rework,Completed,27-08-2024,-,Arun,Vijay,-
+620,26-08-2024,B,FPL,Amazon,-,Sp 1300 X 600 LG,Damage,4,Dhamodharan,FPL,Scrap,Completed,02-09-2024,Muthu,Viki,Muthu,-
+621,31-08-2024,B,GXL UR,Avenue,-,GXL110x2x12000,Slot offset,108,Mukundan,HO aisle,Rework,Waiting,-,-,-,Vijaybabu,Coil entry
+622,27-08-2024,B,12m,Zomato,-,GX 70 Upright 9150 SB,Damage,1,Gowrisankar,12m,Scrap,Waiting,-,-,-,-,-
+623,27-08-2024,B,12m,Armstrong,-,Ghem+ T2 125 X 2700 SW,3 in 1 soln not applied,31,Gowrisankar,12m,Rework,Completed,02-09-2024,saravanan,Viki,saravanan,-
+624,27-08-2024,C,12m,GFA,-,Ghem+ 110 X 2700 OR,Rust,58,B.Raja,12m,Rework,Completed,02-09-2024,saravanan,Viki,saravanan,-
+625,27-08-2024,C,12m,GFA,-,GSB 60 X 2700 OR,Damage,1,B.Raja,12m,Scrap,Waiting,-,-,-,-,-
+626,28-08-2024,B,12m,GFA,-,Ghem+ 110 X 2700 OR,Rust,50,Gowrisankar,12m,Rework,Completed,02-09-2024,saravanan,Viki,saravanan,-
+627,28-08-2024,B,12m,GFA,-,GBH 110 X 2700 OR,Rust,55,Gowrisankar,12m,Rework,Completed,02-09-2024,saravanan,Viki,saravanan,-
+628,29-08-2024,A,12m,GFA,-,GSB 70 X 2300 OR,Scratch Marks,58,Karthik,12m,Rework,Completed,02-09-2024,saravanan,Viki,saravanan,-
+629,29-08-2024,A,12m,GFA,-,Gsb 70 X 2700 OR,Scratch Marks,55,Karthik,12m,Rework,Completed,02-09-2024,saravanan,Viki,saravanan,-
+630,29-08-2024,A,12m,GFA,-,GBH 110 X 2700 OR,Rust,45,Karthik,12m,Rework,Waiting,-,-,-,-,-
+631,29-08-2024,A,12m,GFA,-,Ghem+ 110 X 2700 OR,Rust,24,Karthik,12m,Rework,Waiting,-,-,-,-,-
+632,29-08-2024,C,12m,GFA,-,Ghem+ 110 X 2700 OR,Scratch Marks,28,B.Raja,12m,Rework,Completed,02-09-2024,saravanan,Viki,saravanan,-
+633,30-08-2024,A,12m,GDA,-,Ghem+ 100 X 2700 OR,Scratch Marks,23,Karthik,12m,Rework,Completed,02-09-2024,saravanan,Viki,saravanan,-
+634,30-08-2024,A,12m,GFA,-,Ghem+ 110 X 2700 OR,Oil Mark,30,Karthik,12m,Rework,Waiting,-,-,-,-,-
+635,30-08-2024,A,12m,GFA,-,Ghem+ 110 X 2700 OR,Low DFT,41,Karthik,12m,Rework,Waiting,-,-,-,-,last fix
+636,30-08-2024,B,12m,Zomato,-,Stability Beam LG,Oil marks,30,B.Raja,12m,Rework,Waiting,-,-,-,-,-
+637,30-08-2024,C,12m,GFA,-,Ghem+ 110 X 2700 OR,Oil Marks,22,B.Raja,12m,Rework,Waiting,-,-,-,-,-
+638,31-08-2024,A,12m,Hitech,-,GXL Upright 90 X 8200 SB,Water Mark,28,Karthik,12m,Rework,Waiting,-,-,-,-,-
+639,31-08-2024,C,12m,Avenue,-,GXL Upright 110 X 12000 SB,Uncover,48,B.Raja,12m,Rework,Waiting,-,-,-,-,-
+640,28-08-2024,A,12m,Afaq,-,SP 500 X 1300 LG,Damage,9,Karanraj,FPL,Scrap,Completed,02-09-2024,Muthu,Viki,Muthu,-
+641,29-08-2024,C,12m,MTA,-,GX stiffner SB,Rust,12,Niyas,FPL,Rework,Waiting,-,-,-,-,-
+642,31-08-2024,B,FPL,Prompt,-,Kick Plate YE,Rust,126,B.Raja,FPL,Rework,Waiting,-,-,-,-,-
+643,31-08-2024,C,FPL,Afaq,-,SP 1300 X 600 LG,Damage,35,Niyas,FPL,Scrap,Completed,02-09-2024,Muthu,Viki,Muthu,-
+644,26-08-2024,A,9m,amazon,-,Ghem+ Jst 115 X 4800 LG,Dent,2,R.Usman,9m,Scrap,Waiting,-,-,-,-,-
+645,26-08-2024,C,9m,Zomato,-,Stability beam LG,Rust,2,M.Balaji,9m,Rework,Waiting,-,-,-,-,-
+646,26-08-2024,C,9m,Zomato,-,Stability beam LG,Burr,1,M.Balaji,9m,Scrap,Waiting,-,-,-,-,-
+647,27-08-2024,B,9m,Afaq,-,WW beam tube LG,Dent,1,R.Usman,9m,Scrap,Waiting,-,-,-,-,-
+648,27-08-2024,B,9m,Kaizen,-,G50 Upright 2295 LG,Damage,1,R.Usman,9m,Scrap,Completed,02-09-2024,nannan,Viki,nannan,-
+649,28-08-2024,A,9m,GFA,-,Mobile Cladding LG,Dent,1,N.Murugan,9m,Scrap,Waiting,-,-,-,-,-
+650,28-08-2024,A,9m,Afaq,-,Ghem+ Jst 115 X 4800 LG,Burr,2,N.Murugan,9m,Rework,Waiting,-,-,-,-,-
+651,28-08-2024,B,9m,Afaq,-,Ghem+ Jst 115 X 4800 LG,Damage,3,N.Murugan,9m,Scrap,Waiting,-,-,-,-,-
+652,28-08-2024,B,9m,Zomato,-,Ghem+ Jst 115 X 5100 LG,Rust,17,R.Usman,9m,Rework,Waiting,-,-,-,-,-
+653,29-08-2024,C,9m,Aura,-,Jst beam 60 X 5468 LG,Wrong Color,72,M.Balaji,9m,Rework,Completed,02-09-2024,nannan,Viki,nannan,-
+654,29-08-2024,C,9m,Zomato,-,Stability beam LG,Misweld,4,M.Balaji,9m,Scrap,Waiting,-,-,-,-,-
+655,29-08-2024,C,9m,Zomato,-,Stability beam LG,Dent,2,M.Balaji,9m,Scrap,Waiting,-,-,-,-,-
+656,30-08-2024,C,9m,Armstrong,-,Ghem+ 125 X 2700 SW,Sticker Mark,1,M.Balaji,9m,Rework,Waiting,-,-,-,-,-
+657,30-08-2024,C,9m,Armstrong,-,Ghem+ 125 X 2700 SW,Damage,1,M.Balaji,9m,Scrap,Waiting,-,-,-,-,-
+658,30-08-2024,C,9m,Kakamani,-,Sigma beam LG,Sticker Mark,1,M.Balaji,9m,Rework,Completed,02-09-2024,nannan,Viki,nannan,-
+659,31-08-2024,B,9m,Classic,-,GXL Upright SB,uncover,19,R.Usman,9m,Rework,Waiting,-,-,-,-,-
+660,02-09-2024,A,9m,ZOMATO,-,Hem + JB 85 L5560 LG,Damage,2,Abubakar,9m,Scrap,Waiting,-,-,-,-,-
+661,02-09-2024,B,9m,Avenue,-,GBH 175 L4000 OR,Dent,4,M.Balaji,9m,Scrap,Completed,02-09-2024,-,Viki,Muthukrishnan,Moved to MF
+662,02-09-2024,B,9m,Avenue,-,GBH 175 L4000 OR,Dent,1,M.Balaji,9m,Scrap,Waiting,-,-,-,-,-
+663,02-09-2024,C,9m,Avenue,-,GBH 175 L4000 OR,Dent,1,R.Usman,9m,Scrap,Waiting,-,-,-,-,-
+664,03-09-2024,A,9m,Zomato,-,Hem + JB 85 L4940 LG,Damage,2,N.Murugan,9m,Scrap,Waiting,-,-,-,-,-
+665,03-09-2024,A,9m,Itoki,-,Mobile Cladding GG,Damage,2,N.Murugan,9m,Scrap,Waiting,-,-,-,-,-
+666,03-09-2024,B,9m,Armstrong,-,GB HLE BM T2 135 L3700 SW,Dent,1,M.Balaji,9m,Scrap,Waiting,-,-,-,-,-
+667,03-09-2024,B,9m,Al AbdulGhani,-,GSB 20 60 L1190 OR,Weld Hole,4,M.Balaji,9m,Rework,Waiting,-,-,-,-,-
+668,03-09-2024,B,9m,Zomato,-,Stability Bm 1291 LG,Dent,1,M.Balaji,9m,Scrap,Waiting,-,-,-,-,-
+669,31-08-2024,C,FPL,AFAQ,-,SHELF PNL 500 L1300 Lg,Dent and Damages,24,Niyas,FPL,Scrap,Waiting,-,-,-,-,-
+670,31-08-2024,C,FPL,AFAQ,-,SHELF PNL 600 L1300 Lg,Dent and Damages,11,Niyas,FPL,Scrap,Waiting,-,-,-,-,-
+671,02-09-2024,B,FPL,AFAQ,-,SHELF PNL 500 L1300 Lg,Dent and Damages,2,Niyas,FPL,Scrap,Waiting,-,-,-,-,-
+672,02-09-2024,B,FPL,AFAQ,-,SHELF PNL 600 L1300 LG,Dent and Damages,1,Niyas,FPL,Scrap,Waiting,-,-,-,-,-
+673,02-09-2024,C,FPL,NTPC,-,Base Plate 110 SB,Bend,8,Dhamodharan,FPL,Rework,Completed,02-09-2024,Mani,Viki,Vijay,-
+673,03-09-2024,B,FPL,AFAQ,-,SHELF PNL 500 L1300 LG,Dent,1,Niyas,FPL,Scrap,Waiting,-,-,-,-,-
+674,03-09-2024,B,FPL,kolkata,-,Panel TOPEND D434 W938 0.8 LG,Damage,3,Niyas,FPL,Scrap,Waiting,-,-,-,-,-
+675,02-09-2024,B,12m,GFA,-,Hem + 110 L2700 OR,Drain Hole NA,2,B.Raja,12m,Scrap,Waiting,-,-,-,-,-
+676,02-09-2024,B,-,Magic,-,GSB 70 L2700 OR,Weld Hole,2,B.Raja,12m,Rework,Waiting,-,-,-,-,-
+677,02-09-2024,B,12m,General,-,GXL Upright 110 L10700 SB,Damage,1,B.Raja,12m,Scrap,Waiting,-,-,-,-,-<--end of body-->
